@@ -1,16 +1,16 @@
 # Contributing to the Digital Skills GitBook
-<br>
-The Digital Skills GitBook is an open source project and like many projects on GitHub we welcome your contributions. For example, you might:</br>
-<br>
-•	have a great idea for a new topic to be included in one of our chapters (make a new page)</br>
-•	notice some information that’s out-of-date or that could be explained better (edit a page)</br>
-•	come across something in the GitBook that’s not working as it should be (submit an issue)</br>
-<br>
-By working through this topic, you’ll learn how to:</br>
-<br>
-•	set up your own GitHub repository</br>
-•	contribute to an open source project on GitHub, and</br>
-•	submit a bug </br>
+
+The Digital Skills GitBook is an open source project and like many projects on GitHub we welcome your contributions. For example, you might:
+
+•	have a great idea for a new topic to be included in one of our chapters (make a new page)
+•	notice some information that’s out-of-date or that could be explained better (edit a page)
+•	come across something in the GitBook that’s not working as it should be (submit an issue)
+
+By working through this topic, you’ll learn how to:
+
+•	set up your own GitHub repository
+•	contribute to an open source project on GitHub, and
+•	submit a bug 
 
 ## Setting up and becoming familiar with your GitHub repository
 
