@@ -44,12 +44,12 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 
 6.	This file will be a new page in the GitBook. Now, add your content using Markdown to format your headings and links. You don’t need to spend hours learning code to be able to contribute! Most pages in the GitBook will only use some basics:
 
-       ````
-        Headings – use # to indicate your main heading
+       ```
+       Headings – use # to indicate your main heading
 
-        Bold – add two asterisks before and after your word or phrase
+       Bold – add two asterisks before and after your word or phrase
 
-        Hyperlinking - [Text to be linked](URL)
+       Hyperlinking - [Text to be linked](URL)
 
 7.	Commit your changes and submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team. 
 
