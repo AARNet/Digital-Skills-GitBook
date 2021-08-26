@@ -1,0 +1,70 @@
+name: Contributor form
+description: Please fill in the contributor form when submitting your content.
+title: "Contributor form: "
+labels: [contributors]
+assignees:
+  - sarasrking
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in the contributor form when submitting your content.
+  - type: input
+    id: name
+    attributes:
+      label: Author name (including pronouns if desired)
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Traditional country
+      description: e.g, Whadjuk boodja
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact link 
+      description: e.g, email, Twitter, LinkedIn, etc
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Content
+      placeholder: We would love it if you try to submit via GitHub if you feel comfortable. This project is all about learning new things! Just follow the steps here. Otherwise, please provide your content via this form and we will upload it on your behalf.
+    validations:
+      required: false
+  - type: dropdown
+    id: level
+    attributes:
+      label: Content level
+      options:
+        - Novice
+        - Intermediate
+        - Advanced
+    validations:
+      required: true
+  - type: textarea
+    id: contentsummary
+    attributes:
+      label: Content summary
+      description: Please provide 2-3 sentences
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Please provide a couple of keywords to describe your content.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
