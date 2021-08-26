@@ -32,7 +32,7 @@ By working through this topic, you’ll learn how to:
 Before you start, please familiarise yourself with our [Code of Conduct](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/code-of-conduct), Instructions for Contributors and Style Guide.
 
 
-1.	First, please fill out our contributor form (make sure you’re still signed in to GitHub) so that we can credit you for your work! If you’d like to leave it there, you can submit your content via the form and we’ll add it to the GitBook on your behalf. But we really hope you try submitting via a GitHub pull request as this project is all about learning new things!
+1.	First, please fill out [our contributor form](https://github.com/AARNet/Digital-Skills-GitBook/issues/new?assignees=sarasrking&labels=contributors&template=contributor-form.yml&title=Contributor+form%3A+) (make sure you’re still signed in to GitHub) so that we can credit you for your work! If you’d like to leave it there, you can submit your content via the form and we’ll add it to the GitBook on your behalf. But we really hope you try submitting via a GitHub pull request as this project is all about learning new things!
 
 2.	Navigate to the GitHub repository https://github.com/AARNet/Digital-Skills-GitBook
 
