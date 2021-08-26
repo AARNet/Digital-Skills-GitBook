@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Digital Skills GitBook](README.md)
+  * [Code of Conduct](code-of-conduct.md)
 * [Digital identity and wellbeing](digital-identity-wellbeing/README.md)
   * [Chapter overview](digital-identity-wellbeing/digital-identity-wellbeing-overview.md)
 * [Information literacy, media literacy and data literacy](information-media-data-literacy/README.md)
