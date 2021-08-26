@@ -43,7 +43,6 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 5.	Select Add File > Create new file.
 
 6.	This file will be a new page in the GitBook. Now, add your content using Markdown to format your headings and links. You don’t need to spend hours learning code to be able to contribute! Most pages in the GitBook will only use some basics:
-
        
        Headings – use # to indicate your main heading
 
