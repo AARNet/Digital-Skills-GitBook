@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ## What to do if you experience unacceptable behaviour
 
 Please let us know if you believe someone is violating the Code of Conduct via  
-[caul@caul.edu.au](mailto:caul@caul.edu.au) 
+[caul@caul.edu.au](mailto:caul@caul.edu.au) .  Put Digital Skills GitBook in the subject line.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
