@@ -2,6 +2,7 @@
 
 * [Digital Skills GitBook](README.md)
   * [Code of Conduct](code-of-conduct.md)
+  * [Copyright Statement[(copyright-statement.md)
   * [Contributing to the Digital Skills GitBook](contributing-to-the-digital-skills-gitbook.md)
   * [Glossary](glossary.md)
 * [Digital identity and wellbeing](digital-identity-wellbeing/README.md)
