@@ -1,6 +1,6 @@
 # Copyright statement
 
-The Digital Skills GitBook carries a CC-BY-SA (Share Alike) license, which specifically "lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms."(https://creativecommons.org/licenses/).   
+The Digital Skills GitBook carries a CC-BY-SA (Share Alike) license, which specifically "lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms." (See: https://creativecommons.org/licenses/).   
 
 The Digital Dexterity Champions selected this license for the following reasons: 
 
