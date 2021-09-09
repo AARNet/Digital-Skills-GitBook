@@ -22,8 +22,8 @@ Git is a **version control system**. This means it records changes made to files
 Other things about Git
 - Git is **open source**. This means anyone can use it (download it), modify it, and distribute it for free. All documentation is freely available online
 - Git is a **distributed version control system**. This means users don't need to be connected to the main repo to work on it. They clone a complete version of the main repo to their local computer to work on files. When they are ready, they share their changes.  
-Read [*What's a version control system?*] (https://guides.github.com/introduction/git-handbook/#version-control)  
-Watch [*Git Basics: What is version control?*] (https://www.youtube.com/watch?v=8oRjP8yj2Wo)  
+Read [*What's a version control system?*](https://guides.github.com/introduction/git-handbook/#version-control)  
+Watch [*Git Basics: What is version control?*](https://www.youtube.com/watch?v=8oRjP8yj2Wo)  
 
 **GitHub** is a cloud-based platform where people can work on, share, and manage projects using Git. GitHub started mainly for sharing code for software development but it can also be used (as we have here) for developing long complex documents like training manuals.
 
