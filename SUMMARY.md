@@ -16,6 +16,7 @@
   * [Chapter overview](ict-proficiency-productivity/ict-proficiency-productivity-overview.md)
 * [Digital creation, problem solving and innovation](digital-creation-problem-solving-innovation/README.md)
   * [Chapter overview](digital-creation-problem-solving-innovation/digital-creation-problem-solving-innovation-overview.md)
+  * [Git and GitHub](digital-creation-problem-solving-innovation/Git and GitHub.md)
 * [Collaboration, communication and participation](collaboration-communication-participation/README.md)
   * [Chapter overview](collaboration-communication-participation/collaboration-communication-participation-overview.md)
 
