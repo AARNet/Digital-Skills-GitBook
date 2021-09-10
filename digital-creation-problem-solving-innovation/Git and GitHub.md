@@ -25,23 +25,24 @@ Other things about Git
 Read [*What's a version control system?*](https://guides.github.com/introduction/git-handbook/#version-control)  
 Watch [*Git Basics: What is version control?*](https://www.youtube.com/watch?v=8oRjP8yj2Wo)  
 
-**GitHub** is a cloud-based platform where people can work on, share, and manage projects using Git. GitHub started mainly for sharing code for software development but it can also be used (as we have here) for developing long complex documents like training manuals.GitHub is owned by Microsoft (they bought it in 2018). 
+**GitHub** is a cloud-based platform where people can work on, share, and manage projects using Git. GitHub started mainly for sharing code for software development but it can also be used (as we have here) for developing long complex documents like training manuals. GitHub is owned by Microsoft (they bought it in 2018). 
 
 GitHub makes it easy for people to collaborate on projects by
 - Providing a platform to work together using Git
 - Allow for review of contributions from different people
 - Resolving conflicts between contributions
 
-This is the basic GitHub workflow, or **flow**
+This is the basic GitHub workflow, or **flow**:
+```
+Branch project to work on changes without disturbing the main branch
+Edit and Commit changes
+Open a Pull request
+Discuss and review changes
+Merge changes with main branch 
+```
 
-      - **Branch** project to work on changes without disturbing the main branch
-      - Edit and **Commit** changes
-      - Open a **Pull request**
-      - Discuss and review changes
-      - **Merge** changes with main branch 
-
-Watch [*What is Github?*](https://youtu.be/w3jLJU7DT5E) to see how GitHub works.
-Read [*Understanding tthe GitHub flow*](https://guides.github.com/introduction/flow/) to see a full explanation of the GitHub workflow.
+Watch [*What is Github?*](https://youtu.be/w3jLJU7DT5E) to see how GitHub works.  
+Read [*Understanding the GitHub flow*](https://guides.github.com/introduction/flow/) to see a full explanation of the GitHub workflow.
 
 To use GitHub you first need to [sign up and then make a repository.](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook#setting-up-and-becoming-familiar-with-your-github-repository)
 
