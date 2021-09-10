@@ -40,6 +40,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "rcamnewcastle",
+      "name": "Ruth Cameron",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80928485?v=4",
+      "profile": "https://github.com/rcamnewcastle",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
