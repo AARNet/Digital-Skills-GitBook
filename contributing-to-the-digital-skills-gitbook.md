@@ -40,7 +40,7 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 
 4.	You are now working in the cloned version of the repository you have just created. The folders match the chapter headings in the GitBook. Open the relevant folder.
 
-5.	Select Add File > Create new file.
+5.	Select Add File > Create new file. Use the format xxxx.md to create a Markdown file.
 
 6.	This file will be a new page in the GitBook. Now, add your content using Markdown to format your headings and links. You don’t need to spend hours learning code to be able to contribute! Most pages in the GitBook will only use some basics:
        
