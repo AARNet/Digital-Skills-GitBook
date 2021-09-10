@@ -1,6 +1,6 @@
 # Digital Skills GitBook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The Digital Skills GitBook is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
@@ -18,6 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/miaaaah"><img src="https://avatars.githubusercontent.com/u/84947432?v=4?s=100" width="100px;" alt=""/><br /><sub><b>miaaaah</b></sub></a><br /><a href="https://github.com/AARNet/Digital-Skills-GitBook/pulls?q=is%3Apr+reviewed-by%3Amiaaaah" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/sarasrking"><img src="https://avatars.githubusercontent.com/u/48195568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sara King</b></sub></a><br /><a href="#projectManagement-sarasrking" title="Project Management">📆</a></td>
   </tr>
 </table>
 
