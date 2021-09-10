@@ -48,7 +48,7 @@ Merge changes with main branch
 Watch [*What is Github?*](https://youtu.be/w3jLJU7DT5E) to see how GitHub works.  
 Read [*Understanding the GitHub flow*](https://guides.github.com/introduction/flow/) to see a full explanation of the GitHub workflow.
 
-To use GitHub you first need to [sign up and then make a repository.](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook#setting-up-and-becoming-familiar-with-your-github-repository)
+It is easy to get started using GitHub! To begin, follow our instructions on how to [sign up and then make a repository.](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook#setting-up-and-becoming-familiar-with-your-github-repository)
 
 
 
