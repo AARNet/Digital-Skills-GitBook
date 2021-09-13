@@ -2,6 +2,8 @@
 
 ## Overview
 
+While the concept of fake news isn’t new, it has become more ubiquitous with the popularity of social media and the increasing reliance on social media in everyday life. Social media gives anyone the power to share information, whether true or false, in many different forms. You may come across fake news in the form of legitimate looking news articles, YouTube and social media videos, memes, infographics, viral content, radio and TV broadcasts, by word of mouth, and more.
+
 This article will cover:
 
 * Spotting misinformation and fake news
@@ -13,15 +15,18 @@ This article will cover:
 
 **Fake news** involves hoaxes, opinions, scams, or misleading or false information presented as legitimate news stories. It is capable of disrupting elections, economies, social movements, reputations, geo-political conflicts and more. While some fake news may appear fake, others are increasingly more sophisticated.
 
-Confirmation bias – fake news confirms existing beliefs
+It’s easy to fall into the trap of fake news, particularly when a piece of media confirms our existing beliefs and ideas. This is known as **confirmation bias**. However, despite how much we may want something to be true to support our beliefs, it is important to check our biases and critically analyse the information we find online. 
 
-Common features of fake news include:
+There are several common features of fake news that may immediately flag a piece of information as suspicious. These include:
 
 * Provocative or misleading headlines
 * Clickbait
-* Propaganda
+* Propaganda or opinion pieces
+* Unusual URLs
+* Distorted dates
+* Fake authors
 
-However, you should always check for the following:
+However, some articles may not immediately strike you as suspicious. When reading news or information online, no matter how sophisticated, you should always check for the following:
 
 ### Authority
 
@@ -41,23 +46,31 @@ However, you should always check for the following:
 * If claims are being made, is there evidence to support them, either as references or links to further information?
 * If the author is using references, are they from authors who are qualified to write on the topic?
 * Can you find corroboration for the points being made elsewhere on the internet?
+* Are the quotes or examples used only part of what was said? Have they been taken out of context?
 
-The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This includes searching for more information about the author or organisation who created the information,
+The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This includes searching for more information about the author or organisation who created the information, the date it was posted, and more. As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose. 
 
-Check content on media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org)
+Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content. 
 
 ## Proficient
 
-**Filter bubbles** are echo chambers of like-minded people, curated through the personalisation of online services \(including news, search results, and social media algorithms\). Filter bubbles affect the flow of information that you receive, reducing or preventing exposure to information that may challenge our world view.
+**Filter bubbles** are echo chambers of like-minded views, curated through the personalisation of online services (including news clicks, search behaviour, and social media algorithms). Filter bubbles affect the flow of information that you receive, reducing or preventing exposure to information that may challenge our world view.
 
-Filter bubbles play a large part in online communities where false news can easily spread. Impacts on Brexit and Trump.
+Filter bubbles play a large part in online communities where false news can easily spread. Additionally, as you are not getting an accurate view on the world, you may be surprised by certain world events, such as the results of Brexit and the 2016 US elections.  
 
-social media algorithms, tracked user behaviour, and personal choice \(through muting, unfriending, or blocking those who you don’t want to see\).
+These echo chambers are formed both organically and intentionally throughout your journey through the internet. Everything you do leaves a trace, from interactions on social media to clicking ads and utilising search engines. Web algorithms eat these up, forming highly personalised profiles based on your interests and behaviour. Both [Facebook](https://www.buzzfeednews.com/article/katienotopoulos/heres-how-to-find-out-what-facebook-thinks-you-like#.jfbzpEb6NN) and Google develop ad profiles based on what they think you may like, and the more we interact with certain people and their content, the more they’ll be present in your feeds. Further, by actively blocking, muting or unfollowing what we don’t like or agree with, we actively narrow our exposure to certain information and conflicting views.
+
+Filter bubbles are therefore the result of both social media algorithms and our own behaviour. Recognising that you are in a filter bubble is the first step to breaking free from it. The next steps are finding ways to actively re-train the algorithm to diversify your feed and the information you receive.
 
 ### How to ‘pop’ your filter bubble.
 
-* Turn off customisation features
-* Turn off targeted ads
+* Use ad-blocking extensions
+* Use incognito browsing
+* Delete or block browser cookies
+* Turn off personalised ads on [Google](https://support.google.com/ads/answer/2662856?hl=en), [Facebook](https://www.facebook.com/help/287199741901674?helpref=faq_content) and [Instagram](https://help.instagram.com/245100253430454)
+* Interact with a wider range of people
+* Interact with content outside your comfort zone
+* Follow differing perspectives
 
 ## Advanced
 
@@ -70,7 +83,7 @@ social media algorithms, tracked user behaviour, and personal choice \(through m
 * A lack of emotion
 * Awkward-looking body or posture
 * Poor lip-syncing
-* Fine details, such as hair or teeth
+* Errors in fine details, such as hair or teeth
 
 ## Conclusion
 
