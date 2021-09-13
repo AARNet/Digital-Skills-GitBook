@@ -74,6 +74,8 @@ Filter bubbles are therefore the result of both social media algorithms and our 
 
 ## Advanced
 
+*This section needs further development. [Add your contribution.](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook)*
+
 **Deep fakes** are a sophisticated form of fake news, where fictional videos or images are created featuring well-known or made-up people doing or saying things that are not real. This advanced form of manipulation is created using artificial intelligence and machine learning.
 
 ### How to spot deep fakes
