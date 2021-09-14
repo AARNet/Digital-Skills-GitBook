@@ -87,8 +87,6 @@ Filter bubbles are therefore the result of both social media algorithms and our 
 * Poor lip-syncing
 * Errors in fine details, such as hair or teeth
 
-## Conclusion
-
 ## References/further reading
 
 [https://www.ted.com/talks/eli\_pariser\_beware\_online\_filter\_bubbles?referrer=playlist-how\_to\_pop\_our\_filter\_bubbles](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?referrer=playlist-how_to_pop_our_filter_bubbles)
