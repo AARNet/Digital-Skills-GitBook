@@ -9,7 +9,7 @@
 ## C
 
 * **clickbait** – content designed to attract attention and encourage traffic.
-* **confirmaion bias** – the act of searching for or interpreting new evidence as confirmation of one's existing beliefs or theories.
+* **confirmation bias** – the act of searching for or interpreting new evidence as confirmation of one's existing beliefs or theories.
 
 ## D
 
