@@ -72,7 +72,7 @@ body:
     id: terms
     attributes:
       label: Copyright
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
+      description: By submitting this issue, you agree to follow our [Copyright Code](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's Copyright
           required: true
