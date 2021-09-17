@@ -69,7 +69,7 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
   - type: checkboxes
-    id: terms
+    id: copyright
     attributes:
       label: Copyright
       description: By submitting this issue, you agree to follow our [Copyright Code](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
