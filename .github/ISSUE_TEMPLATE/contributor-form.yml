@@ -42,8 +42,8 @@ body:
       label: Content level
       options:
         - Developing
-        - Skills
-        - Adapt
+        - Skilled
+        - Adept
     validations:
       required: true
   - type: textarea
@@ -64,6 +64,11 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+      label: Copyright
       description: By submitting this issue, you agree to follow our [Code of Conduct](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
       options:
         - label: I agree to follow this project's Code of Conduct
