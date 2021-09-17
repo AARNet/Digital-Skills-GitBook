@@ -41,9 +41,9 @@ body:
     attributes:
       label: Content level
       options:
-        - Novice
-        - Intermediate
-        - Advanced
+        - Developing
+        - Skills
+        - Adapt
     validations:
       required: true
   - type: textarea
