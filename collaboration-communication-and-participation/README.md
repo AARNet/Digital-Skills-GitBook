@@ -1,2 +1,5 @@
 # Collaboration, communication and participation
 
+Working with others utilising digital tools, how digital networks influence social behaviour, effective ways to share and participate in digital spaces. Building digital networks.  
+
+ How can we use digital tools to build networks, influence social behaviours and as well as provide an opportunity to share and participate in digital spaces effectively?  This chapter explores a variety of digital tools that are designed to build digital skills directly associated with enhancing collaboration with colleagues within your workplace and across your extended network. The scaffolded approach for each of these tools enables all who engage an opportunity to learn whether you are a novice or expert. 
