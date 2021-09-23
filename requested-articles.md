@@ -80,6 +80,7 @@ Contributions have been requested in the following areas:
 | Screencasting | All proficiency levels |
 | Setting up static websites | All proficiency levels |
 | Web scraping | All proficiency levels |
+| Git and GitHub | Skilled and Adept levels, located in [Git and GitHub](/digital-creation-problem-solving-and-innovation/git-and-github.md) |
 
 ## 6. Collaboration, communication and participation
 
