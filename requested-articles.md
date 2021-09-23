@@ -6,7 +6,7 @@ Contributions have been requested in the following areas:
 
 ## 1. Digital identity and wellbeing
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Considering environmental impacts | All proficiency levels |
 | Curating materials across networks and platforms | All proficiency levels |
@@ -17,7 +17,7 @@ Contributions have been requested in the following areas:
 
 ## 2. Information literacy, media literacy and data literacy
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Copyright | All proficiency levels |
 | Data-driven decision making | All proficiency levels |
@@ -35,7 +35,7 @@ Contributions have been requested in the following areas:
 
 ## 3. Digital learning and development
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Accessibility | All proficiency levels |
 | How to create engaging online learning (synchronous and asynchronous) | All proficiency levels |
@@ -48,7 +48,7 @@ Contributions have been requested in the following areas:
 
 ## 4. ICT proficiency and productivity
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Accessing and sending emails | All proficiency levels |
 | Bookmarking a web page and organising bookmarks | All proficiency levels |
@@ -73,7 +73,7 @@ Contributions have been requested in the following areas:
 
 ## 5. Digital creation, problem solving and innovation
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Creating open education resources | All proficiency levels |
 | Markdown | All proficiency levels |
@@ -83,7 +83,7 @@ Contributions have been requested in the following areas:
 
 ## 6. Collaboration, communication and participation
 
-| Topic     | Level |
+| Topic     | Level requested |
 | ----------- | ----------- |
 | Using collaborative documents (e.g. Google Docs) | All proficiency levels |
 | Using collaborative tools (e.g. Jamboard, Padlet, etc.) | All proficiency levels |
