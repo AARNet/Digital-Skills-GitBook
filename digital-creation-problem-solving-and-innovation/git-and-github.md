@@ -2,13 +2,13 @@
 
 ## Topic overview
 
-This page briefly explains Git and GitHub and how they are related. It supplies further learning by means of videos and links to the official Git and GitHub websites, plus other CC-licenced sources. The novice section explains what some terms mean and gives some links to learning for getting started with GitHub.
+This page briefly explains Git and GitHub and how they are related. It supplies further learning by means of videos and links to the official Git and GitHub websites, plus other CC-licenced sources. The developing section explains what some terms mean and gives links to learning for getting started with GitHub.
 
 ### Expertise needed
 
-Proficient and Advanced sections on using GitHub.
+Skilled and Adept sections on using GitHub.
 
-## Novice
+## Developing
 
 #### Git
 
