@@ -1,8 +1,8 @@
-# Digital Skills GitBook
+![logo](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/assets/Living%20Book%20logo.PNG)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](./#contributors-) 
 
-The Digital Skills GitBook is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
+The Living Book of Digital Skills (You never knew you needed until now) is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
 
 A collaboration between Australia's Academic Research Network \(AARNet\) and the Council of Australian Librarians \(CAUL\), this book is the creation of the CAUL Digital Dexterity Champions and their communities.
 
