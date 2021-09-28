@@ -71,8 +71,8 @@ body:
   - type: checkboxes
     id: copyright
     attributes:
-      label: Copyright
-      description: By submitting this issue, you agree to follow our [Copyright Code](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook/code_of_conduct)
+      label: Authorship and copyright statement
+      description: I have participated sufficiently in the writing and development of the content and form of this work to take public responsibility for it.  My contribution is original and I am the sole owner of that contribution.  I agree that this work will be licensed under a CC-BY-SA license.  This work has not been published elsewhere and is not being considered for publication elsewhere.
       options:
         - label: I agree to follow this project's Copyright
           required: true
