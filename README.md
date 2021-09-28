@@ -1,4 +1,4 @@
-![logo](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/assets/Living%20Book%20logo.PNG)
+<img src="https://github.com/AARNet/Digital-Skills-GitBook/blob/master/assets/Living%20Book%20logo.PNG" width="788" height=582 />
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](./#contributors-) 
 
