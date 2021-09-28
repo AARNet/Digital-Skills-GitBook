@@ -17,7 +17,7 @@ Skilled and Adept sections on using GitHub.
 This is the workflow of all these people as they work with their digital files:
 
 ```text
-    Create – Save – Edit – Save again  
+    Create – Save – Edit – Save again
 ```
 
 Every time a file is edited a different version is saved. This is where Git comes in.

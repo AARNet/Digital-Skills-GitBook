@@ -15,7 +15,7 @@ This article will cover:
 
 **Fake news** involves hoaxes, opinions, scams, or misleading or false information presented as legitimate news stories. It is capable of disrupting elections, economies, social movements, reputations, geo-political conflicts and more. While some fake news may appear fake, others are increasingly more sophisticated.
 
-It’s easy to fall into the trap of fake news, particularly when a piece of media confirms our existing beliefs and ideas. This is known as **confirmation bias**. However, despite how much we may want something to be true to support our beliefs, it is important to check our biases and critically analyse the information we find online. 
+It’s easy to fall into the trap of fake news, particularly when a piece of media confirms our existing beliefs and ideas. This is known as **confirmation bias**. However, despite how much we may want something to be true to support our beliefs, it is important to check our biases and critically analyse the information we find online.
 
 There are several common features of fake news that may immediately flag a piece of information as suspicious. These include:
 
@@ -48,15 +48,15 @@ However, some articles may not immediately strike you as suspicious. When readin
 * Can you find corroboration for the points being made elsewhere on the internet?
 * Are the quotes or examples used only part of what was said? Have they been taken out of context?
 
-The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This includes searching for more information about the author or organisation who created the information, the date it was posted, and more. As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose. 
+The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This includes searching for more information about the author or organisation who created the information, the date it was posted, and more. As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose.
 
-Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content. 
+Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content.
 
 ## Proficient
 
-**Filter bubbles** are echo chambers of like-minded views, curated through the personalisation of online services (including news clicks, search behaviour, and social media algorithms). Filter bubbles affect the flow of information that you receive, reducing or preventing exposure to information that may challenge our world view.
+**Filter bubbles** are echo chambers of like-minded views, curated through the personalisation of online services \(including news clicks, search behaviour, and social media algorithms\). Filter bubbles affect the flow of information that you receive, reducing or preventing exposure to information that may challenge our world view.
 
-Filter bubbles play a large part in online communities where false news can easily spread. Additionally, as you are not getting an accurate view on the world, you may be surprised by certain world events, such as the results of Brexit and the 2016 US elections.  
+Filter bubbles play a large part in online communities where false news can easily spread. Additionally, as you are not getting an accurate view on the world, you may be surprised by certain world events, such as the results of Brexit and the 2016 US elections.
 
 These echo chambers are formed both organically and intentionally throughout your journey through the internet. Everything you do leaves a trace, from interactions on social media to clicking ads and utilising search engines. Web algorithms eat these up, forming highly personalised profiles based on your interests and behaviour. Both [Facebook](https://www.buzzfeednews.com/article/katienotopoulos/heres-how-to-find-out-what-facebook-thinks-you-like#.jfbzpEb6NN) and Google develop ad profiles based on what they think you may like, and the more we interact with certain people and their content, the more they’ll be present in your feeds. Further, by actively blocking, muting or unfollowing what we don’t like or agree with, we actively narrow our exposure to certain information and conflicting views.
 
@@ -74,7 +74,7 @@ Filter bubbles are therefore the result of both social media algorithms and our 
 
 ## Advanced
 
-*This section needs further development. [Add your contribution.](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook)*
+_This section needs further development._ [_Add your contribution._](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook)
 
 **Deep fakes** are a sophisticated form of fake news, where fictional videos or images are created featuring well-known or made-up people doing or saying things that are not real. This advanced form of manipulation is created using artificial intelligence and machine learning.
 
