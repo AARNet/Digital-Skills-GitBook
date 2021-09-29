@@ -2,13 +2,13 @@
 
 ## Topic overview
 
-This page briefly explains Git and GitHub and how they are related. It supplies further learning by means of videos and links to the official Git and GitHub websites, plus other CC-licenced sources. The novice section explains what some terms mean and gives some links to learning for getting started with GitHub.
+This page briefly explains Git and GitHub and how they are related. It supplies further learning by means of videos and links to the official Git and GitHub websites, plus other CC-licenced sources. The developing section explains what some terms mean and gives links to learning for getting started with GitHub.
 
 ### Expertise needed
 
-Proficient and Advanced sections on using GitHub.
+Skilled and Adept sections on using GitHub.
 
-## Novice
+## Developing
 
 #### Git
 
@@ -17,7 +17,7 @@ Proficient and Advanced sections on using GitHub.
 This is the workflow of all these people as they work with their digital files:
 
 ```text
-    Create – Save – Edit – Save again  
+    Create – Save – Edit – Save again
 ```
 
 Every time a file is edited a different version is saved. This is where Git comes in.
