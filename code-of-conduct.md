@@ -4,7 +4,9 @@
 
 Welcome to our Digital Skills GitBook community! Here we foster a welcoming and inclusive environment for everyone regardless of background or identity. Please respect this community by not using behaviour that is disrespectful to our members or that harasses, belittles, excludes or intimidates others for any reason whatsoever. In order to contribute to the book we ask that you respect this code and behave in an appropriate manner.
 
-## When contributing to this book, please do
+## Contributing to the book
+
+### Do's
 
 😊 Use welcoming and inclusive language  
 😊 Be respectful to different viewpoints and experiences  
@@ -13,21 +15,17 @@ Welcome to our Digital Skills GitBook community! Here we foster a welcoming and 
 😊 Show courtesy and respect towards other members  
 😊 Keep all interactions respectful and professional
 
-### Examples of unacceptable behaviour include:
+### Don'ts
 
-☹ Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
-☹ Causing someone to fear for their safety, such as through stalking, following or intimidation  
-☹ Violent threats or language directed against another person  
-☹ The display of sexual or violent images  
-☹ Unwelcome sexual attention or nonconsensual physical contact  
-☹ Sustained disruption of talks, events or communications  
-☹ Insults or put-downs  
-☹ Sexist, racist, homophobic, ableist or exclusionary jokes  
-☹ Excessive swearing  
-☹ Incitement to violence, suicide or self-harm  
-☹ Continuing to initiate interaction \(including photography or recording\) with someone after being asked to stop  
-☹ Publication of private communication without consent  
-☹ Other conduct which could reasonably be considered inappropriate in a professional setting
+☹️ Insult, put-down or exclude people on any basis, including membership to specific groups  
+☹️ Cause someone to fear for their safety, such as through stalking, following or intimidation  
+☹️ Use violent threats or language directed against another person  
+☹️ Upload, send or share sexual or violent images     
+☹️ Make sexist, racist, homophobic, ableist or exclusionary jokes or comments   
+☹️ Incite violence, suicide or self-harm  
+☹️ Continuing to initiate interaction \(including photography or recording\) with someone after being asked to stop  
+☹️ Publish private communication without consent  
+☹️ Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
 
