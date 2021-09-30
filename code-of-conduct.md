@@ -23,9 +23,9 @@ Welcome to our Digital Skills GitBook community! Here we foster a welcoming and 
 ☹️ Upload, send or share sexual or violent images     
 ☹️ Make sexist, racist, homophobic, ableist or exclusionary jokes or comments   
 ☹️ Incite violence, suicide or self-harm  
-☹️ Continuing to initiate interaction \(including photography or recording\) with someone after being asked to stop  
+☹️ Continue to initiate interaction \(including photography or recording\) with someone after being asked to stop  
 ☹️ Publish private communication without consent  
-☹️ Other conduct which could reasonably be considered inappropriate in a professional setting
+☹️ Behave in any other way which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
 
@@ -33,15 +33,15 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## What to do if you experience unacceptable behaviour
 
-Please let us know if you believe someone is violating the Code of Conduct via [caul@caul.edu.au](mailto:caul@caul.edu.au)  
- Put _Digital Skills GitBook_ in the subject line.  
+Please let us know if you believe someone is violating the Code of Conduct via [caul@caul.edu.au](mailto:caul@caul.edu.au), with _Digital Skills GitBook_ in the subject line.  
 
+If someone engages in behaviour that violates this Code of Conduct, the Digital Skills GitBook project team may warn the offender, ask them to leave, or remove them from the platform. The Digital Skills GitBook project team have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.  
 
-The Digital Skills GitBook admins are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective action in response to any behaviour that they deem inappropriate, threatening, offensive or harmful. If someone engages in behaviour that violates this Code of Conduct, the Digital Skills GitBook admins may warn the offender, ask them to leave, or remove them from the platform. The Digital Skills GitBook admins have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.  
- All complaints will be reviewed and investigated promptly and fairly.
+All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 
 This Code of Conduct is inspired by and adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), [The Turing Way Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).  
-Like them, it is licensed under a [Creative Commons Attribution 4.0 International \(CC BY 4.0 CA\)](https://creativecommons.org/licenses/by/4.0/) licence.
+
+Similarly, this Code of Conduct is also licensed under a [Creative Commons Attribution 4.0 International \(CC BY 4.0 CA\)](https://creativecommons.org/licenses/by/4.0/) licence.
 
