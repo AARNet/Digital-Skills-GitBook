@@ -1,6 +1,6 @@
 # Requested articles
 
-We've identified some areas of interest that we are seeking contributions in. This list is not exhaustive and can be added to or addressed at any time. To contribute an article, please follow our [guide for contributing to the Digital Skills GitBook.](contributing-to-the-digital-skills-gitbook.md)
+We've identified some areas of interest that we are seeking contributions in. This list is not exhaustive and can be added to or addressed at any time. To contribute an article, please follow our [guide for contributing to the Digital Skills GitBook.](CONTRIBUTING.md)
 
 Contributions have been requested in the following areas:
 
