@@ -11,7 +11,7 @@
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
-* [6. Collaboration, communication and participation](6.-collaboration-communication-and-participation/README.md)
+* [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
 * [Glossary](glossary.md)
 * [Requested articles](requested-articles.md)
 
