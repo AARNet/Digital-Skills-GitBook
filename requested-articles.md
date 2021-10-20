@@ -13,6 +13,8 @@ Contributions have been requested in the following areas:
 | Developing a digital presence | All proficiency levels |
 | Digital decluttering | All proficiency levels |
 | Staying safe online/online privacy | All proficiency levels |
+| Phishing and identify theft | All proficiency levels |
+| Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
 | Using password managers | All proficiency levels |
 
 ## 2. Information literacy, media literacy and data literacy
