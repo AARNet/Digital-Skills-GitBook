@@ -2,6 +2,12 @@
 
 ## Chapter overview
 
-How can we use digital tools to build networks, influence social behaviours, to effectively **share** and **participate** in digital spaces?  
+This chapter explores how we can use digital tools to build networks, influence social behaviours, to effectively **share** and **participate** in digital spaces.  
 
-This chapter explores a variety of digital tools designed to enhance communication, collaboration and participation with colleagues both in your workplace and across your extended digital network. The scaffolded skills approach for each of these tools enables all who engage an opportunity to learn whether you are a novice or expert.
+Topics included are:
+
+- **digital media, tools or platforms** for communicating and working with others, both in our immediate workplace and beyond; 
+- skills and understandings of **how to communicate effectively and build networks** online;   
+- practising ourselves and helping others to collaborate and **participate in digital spaces across cultural, social and linguistic boundaries**.
+
+The scaffolded skills approach for each of these tools and understandings enables all who engage an opportunity to learn whether you are a novice or expert.
