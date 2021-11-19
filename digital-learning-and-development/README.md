@@ -2,11 +2,11 @@
 
 ## Chapter overview
 
-What makes digital or online learning and development different to more traditional methods? This chapter addresses the opportunities and challenges of **learning and teaching online**.  
+This chapter addresses the opportunities and unique challenges of learning and teaching online. Get meta - learn online about learning online! 
 
-Discover \(and develop\) your personal preferences as a digital learner, and learn how to tailor content to different learning needs and preferences in others.
+Topics include: 
 
-Learn about choosing and using **digital learning materials and tools**, how to use them in your library and institution, and support your communities. 
+**Digital learning preferences:** Discover your needs as a digital learner, and how to tailor content to different learning needs and preferences in others.
 
-This is such a meta chapter – you will be learning online about learning online!
+**Digital learning materials and tools:** How to choose and use them in your library and institution, and support your communities.
 
