@@ -22,7 +22,6 @@ By working through this topic, you’ll learn how to:
 
    Spaces in repository names will be replaced with hyphens, ie, your-repository-name.
 
-4. Now, let’s explore your screen.
 
 ## Adding a new topic to the Digital Skills GitBook via GitHub
 
@@ -41,9 +40,10 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 
    Hyperlinking - \[Text to be linked\]\(URL\)
 
-7. Commit your changes and submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team.
+7. Commit your changes directly to the master branch.
 8. Then open SUMMARY.md and select Edit this file. This file is the GitBook’s Table of Contents. Add your page by copying the existing format and structure.
-9. Commit your changes and submit a pull request to notify the project team.
+9. Commit your changes directly to the master branch.
+10. Now you will need to submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team. Click on the Pull requests heading and 
 
 ## Other useful resources
 
