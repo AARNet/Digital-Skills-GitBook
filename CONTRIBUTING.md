@@ -14,7 +14,7 @@ By working through this topic, you’ll learn how to:
 
 ## Setting up and becoming familiar with your GitHub repository
 
-1. Go to [https://github.com/](https://github.com/) and follow the prompts to Sign up. You will need e-mail address, and you will be asked to create a username and password. You will have to solve a ‘puzzle’ to prove Launch code will be sent to your e-mail address.
+1. Go to [https://github.com/](https://github.com/) and follow the prompts to Sign up. You will need e-mail address, and you will be asked to create a username and password. You will have to solve a ‘puzzle’ before a Launch code will be sent to your e-mail address.
 2. Click on the button to Start a project.
 3. Give your new [repository](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#repository) a name. Your repository’s URL will take the form:
 
