@@ -45,6 +45,7 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 9. Commit your changes directly to the master branch.
 10. Now you will need to submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team. Click on the Pull requests heading and start a New pull request.
 11. Ensure the base repository is AARNET/Digital-Skills-GitBook and head repository is your forked repository. Then Create pull request.
+12. You will need to add a Title for your pull request. You will also need to leave a comment. This can be a short description of the changes you have made.
 
 ## Other useful resources
 
