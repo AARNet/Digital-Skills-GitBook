@@ -60,6 +60,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "jasminecastellano",
+      "name": "Jasmine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92563016?v=4",
+      "profile": "https://github.com/jasminecastellano",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
