@@ -14,7 +14,7 @@ By working through this topic, you’ll learn how to:
 
 ## Setting up and becoming familiar with your GitHub repository
 
-1. Go to [https://github.com/](https://github.com/) and follow the prompts to Sign up. You will need e-mail address, and you will be asked to create a username and password. You will have to solve a ‘puzzle’ to prove Launch code will be sent to your e-mail address.
+1. Go to [https://github.com/](https://github.com/) and follow the prompts to Sign up. You will need e-mail address, and you will be asked to create a username and password. You will have to solve a ‘puzzle’ before a Launch code will be sent to your e-mail address.
 2. Click on the button to Start a project.
 3. Give your new [repository](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#repository) a name. Your repository’s URL will take the form:
 
@@ -22,7 +22,6 @@ By working through this topic, you’ll learn how to:
 
    Spaces in repository names will be replaced with hyphens, ie, your-repository-name.
 
-4. Now, let’s explore your screen.
 
 ## Adding a new topic to the Digital Skills GitBook via GitHub
 
@@ -41,9 +40,12 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 
    Hyperlinking - \[Text to be linked\]\(URL\)
 
-7. Commit your changes and submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team.
+7. Commit your changes directly to the master branch.
 8. Then open SUMMARY.md and select Edit this file. This file is the GitBook’s Table of Contents. Add your page by copying the existing format and structure.
-9. Commit your changes and submit a pull request to notify the project team.
+9. Commit your changes directly to the master branch.
+10. Now you will need to submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team. Click on the Pull requests heading and start a New pull request.
+11. Ensure the base repository is AARNET/Digital-Skills-GitBook and head repository is your forked repository. Then click on Create pull request.
+12. You will need to add a Title for your pull request. You will also need to leave a comment. This can be a short description of the changes you have made. Then click on Create pull request to finalise the request. 
 
 ## Other useful resources
 
