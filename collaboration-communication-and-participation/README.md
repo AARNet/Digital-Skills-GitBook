@@ -2,7 +2,7 @@
 
 ## Chapter overview
 
-How can we use **digital tools** to build networks, influence social behaviours, to effectively **share** and **participate** in digital spaces?  
+How can we use digital tools to build networks, influence social behaviours, to effectively **share** and **participate** in digital spaces?  
 
 Topics include: 
  
