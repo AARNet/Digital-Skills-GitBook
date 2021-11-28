@@ -1,6 +1,6 @@
 # Digital Skills GitBook
 
-![](.gitbook/assets/living-book-logo.png)
+![](.gitbook/assets/the-living-book-logo.png)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](./#contributors-)
 
