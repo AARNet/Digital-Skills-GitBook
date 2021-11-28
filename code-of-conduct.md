@@ -33,9 +33,9 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## What to do if you experience unacceptable behaviour
 
-Please let us know if you believe someone is violating the Code of Conduct via [caul@caul.edu.au](mailto:caul@caul.edu.au), with _Digital Skills GitBook_ in the subject line.  
+Please let us know if you believe someone is violating the Code of Conduct via [digidexlibrarians+gitbook@gmail.com](mailto:digidexlibrarians+gitbook@gmail.com), with _Digital Skills GitBook_ in the subject line.  
 
-If someone engages in behaviour that violates this Code of Conduct, the Digital Skills GitBook project team may warn the offender, ask them to leave, or remove them from the platform. The Digital Skills GitBook project team have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.  
+The Digital Skills GitBook project team have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.  
 
 All complaints will be reviewed and investigated promptly and fairly.
 
