@@ -7,6 +7,7 @@
 * [1. Digital identity and wellbeing](digital-identity-wellbeing/README.md)
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
+  * [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
   * [Pedagogy and andragogy (adult learning) in an online environment](digital-learning-and-development/Pedagogy-and-andragogy-(adult-learning)-in-an-online-environment.md)
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
