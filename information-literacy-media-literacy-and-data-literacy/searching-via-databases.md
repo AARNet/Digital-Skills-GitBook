@@ -59,6 +59,7 @@ It can also be helpful to use parentheses to group together your search terms. T
 
 Continuing with our diet and depression question, this example search uses AND, OR and parentheses to tell the database what you’re looking for:
 > (diet OR nutrition OR food) AND (depression OR depressed OR mood)
+
 In the above, we’re asking the database to show us records that feature any one or more of the search terms within each set of parentheses (or each concept group). That is, if a record has any one of the search terms from the diet concept group, as well as any one of the search terms from the depression group, the database will show it to us. If a database record features a term from one group but not another, it will not be shown in the search results for the above search.
 
 **Key point**
