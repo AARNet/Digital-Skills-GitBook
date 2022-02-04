@@ -9,6 +9,7 @@ A search for information starts with a need for information. Sometimes it helps 
 ### Identifying concepts
 Look at this research question:
 > *How does diet affect the symptoms of people with depression?*
+
 What are the concepts the above question touches on? Which of them are actually useful in a search?
 
 “Diet” and “depression” are the two major concepts that jump out immediately. They are the crucial elements of this question, and someone searching on this question would definitely be interested in papers that mentioned both of these concepts.
@@ -18,7 +19,9 @@ The concept of “affect” or something being affected by something else is cer
 Finally, “symptoms” and “people” are both too general and vague to be useful as search terms. Adding “symptoms” to the search may mean you miss papers where the word “symptoms” isn’t used; also, a search for “diet” and “depression” implies some relationship between the two, so the search doesn’t need to be so specific about what that relationship is (i.e. that it relates to symptoms). 
 
 **Key point**
-> From your research question, consider which concepts are the most important and practical to search with. With a database search, sometimes less is more!
+> From your research question, consider which concepts are the most important and practical to search with. 
+> 
+> With a database search, sometimes less is more!
 ### Generating keywords
 Once we have identified the concepts that are useful for our search, the next step is to generate some search terms for each. While each concept is a useful search term on its own, we need to consider other ways the concepts could be expressed and other words that are associated with them in order to capture as much of the relevant literature as possible. 
 
@@ -26,11 +29,11 @@ Continuing with our example, we can generate these additional search terms by th
 
 Here’s an example of such a table for tracking purposes; note that below the concepts appear as search terms along with a couple of additional search terms related to each:
 
-| Concepts -> | Diet concept | Depression concept |
+| *Concepts ->* | **Diet concept** | **Depression concept** |
 | ------------- | ------------- |------------- |
-| Search terms -> | Diet | Depression |
-|    | Nutrition | Depressed |
-|    | Food  | Mood |
+| *Search terms ->* | Diet | Depression |
+| *Search terms ->* | Nutrition | Depressed |
+| *Search terms ->* | Food  | Mood |
 
 **Key points**
 > Your concepts are a starting point for search terms that help you find relevant records in a database. Possible search terms include synonyms, antonyms and other related terms for each concept.
@@ -42,7 +45,9 @@ Once you have a set of search terms generated, it’s time to start putting them
 Depending on the nature of your question you may be looking at discipline-specific databases or multi-disciplinary databases. Generally, discipline-specific databases have very good depth of coverage on a narrow field whereas multi-disciplinary are more broad as they attempt to cover many fields. It may also be important to consider if the database focuses on a particular geographical, historical or other area, and how that fits with your search in terms of what you could expect to find within the database.
 
 **Key point**
-> You will need to understand a little bit about the database in order decide whether to use it for your search. Examine the database’s Help or About sections, or the database information or guides provided by the library that is faciliating access to the database.
+> You will need to understand a little bit about the database in order decide whether to use it for your search. 
+> 
+> Examine the database’s Help or About sections, or the database information or guides provided by the library that is faciliating access to the database.
 ### Using database search interfaces
 While some databases can infer the relationship between your search terms, it is best to be as direct as possible and tell the database what you want. 
 A fundamental method of doing this is to use the words AND, OR and NOT. These are common search operators (AKA Boolean operators) which tell the database how to treat the search terms within a search:
@@ -58,18 +63,16 @@ In the above, we’re asking the database to show us records that feature any on
 
 **Key point**
 > When needed, using AND, OR, NOT or parentheses to control the relationship between your search terms is a useful way to tell the database exactly what you’re looking for.
-## Proficient
+## Proficient - Contribution needed
 * Field codes
 * Subject headings
 * Trunctation, wildcards, phrase searching
 
-**Contribution needed**
-
-## Advanced
+## Advanced - Contribution needed
 * Proximity searching
 * Search filters
 * Citation searching
-**Contribution needed**
+
 
 ## Further reading
 [Search tips and planning](https://www.deakin.edu.au/library/skills-for-study/search-tips-and-planning) from Deakin University Library
