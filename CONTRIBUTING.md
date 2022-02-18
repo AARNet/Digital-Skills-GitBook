@@ -1,6 +1,10 @@
 # Contributing to the Digital Skills GitBook
 
-The Digital Skills GitBook is an open source project and like many projects on GitHub we welcome your contributions. For example, you might:
+The Digital Skills GitBook is an open source project and like many projects on GitHub we welcome your contributions. 
+
+If you have knowledge or expertise on one of our [requested topics](https://aarnet.gitbook.io/digital-skills-gitbook-1/requested-articles), we would love you to write an article for the book. Please let us know what you'd like to write about via our [contributor form](https://github.com/AARNet/Digital-Skills-GitBook/issues/new?assignees=sarasrking&labels=contributors&template=contributor-form.yml&title=Contributor+form%3A+).
+
+There are other ways to contribute too. For example, you might:
 
 * have a great idea for a new topic to be included in one of our chapters \(make a new page\)
 * notice some information that’s out-of-date or that could be explained better \(edit a page\)
