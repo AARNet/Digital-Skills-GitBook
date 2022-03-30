@@ -12,6 +12,7 @@
   * [Pedagogy and andragogy in an online environment](digital-learning-and-development/pedagogy-and-andragogy-in-an-online-environment.md)
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
   * [README file](ict-proficiency-productivity/readme-file.md)
+  * [Networks: the internet and how it works](ict-proficiency-productivity/internet.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
 * [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
