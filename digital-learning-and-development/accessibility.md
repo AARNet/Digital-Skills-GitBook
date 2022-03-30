@@ -16,7 +16,7 @@ This article will cover:
 
 - Accessibility review tools  
 
-### Getting started 
+## Getting started 
 
 Basic accessibility measures include providing different formats for the same material so that it can be used in different ways. Basic elements include: 
 
@@ -31,3 +31,14 @@ Basic accessibility measures include providing different formats for the same ma
 These elements mean that web content can be used by people with disabilities and learning differences so that information can be equally accessed.  
 
 More advanced features incorporated into the design of webpages and tools can be found in the Advanced section. 
+
+## Proficient
+
+Coming soon:
+- Standards (WCAG)
+- Accessibility statements
+
+## Advanced
+
+Coming soon:
+- Accessibility review tools
