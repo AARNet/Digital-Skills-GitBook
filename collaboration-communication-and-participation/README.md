@@ -4,4 +4,9 @@
 
 How can we use digital tools to build networks, influence social behaviours, to effectively **share** and **participate** in digital spaces?  
 
-This chapter explores a variety of digital tools designed to enhance communication, collaboration and participation with colleagues both in your workplace and across your extended digital network. The scaffolded skills approach for each of these tools enables all who engage an opportunity to learn whether you are a novice or expert.
+Topics include: 
+ 
+**Digital tools participation:** How to use tools to enhance your communication, collaboration and participation with colleagues both in your workplace and across your extended digital network. 
+ 
+**Scaffolded learning:** Learn how each of these tools enables all who engage an opportunity to learn at different skill levels, whether you are a novice or expert.
+
