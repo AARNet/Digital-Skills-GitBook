@@ -9,6 +9,7 @@
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
+  * [README file](ict-proficiency-productivity/readme-file.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
 * [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
