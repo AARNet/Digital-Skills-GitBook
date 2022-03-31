@@ -2,7 +2,7 @@
 
 ### Overview
 
-Web information can vary in format from text to images, videos, audio transcripts and much more. Accessibility is about providing equitable access to web content by catering to different learning and processing needs. This is achieved by incorporating design features into web content so it can be used by everyone, but particularly those with disabilities.  
+Web information can vary in format from text to images, videos, audio transcripts and much more. **Accessibility** is about **providing equitable access** to web content by catering to different learning and processing needs. This is achieved by incorporating **design features** into web content so it can be used by everyone, but particularly those with disabilities.  
 
 > *“The power of the web is in its universality. Access by everyone regardless of disability is an essential aspect.”* - [Tim Berners-Lee, W3C Director and inventor of the World Wide Web](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 
 
