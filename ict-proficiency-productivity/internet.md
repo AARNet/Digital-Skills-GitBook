@@ -116,7 +116,7 @@ Australia is a large continent, and the networks AARNet provides enable data cap
  
 Australia lies at a distance from research conducted in other parts of the world, like the northern hemisphere, and the networks AARNet provides aid in removing distance as a barrier to research collaboration.
  
-Click here to learn more: https://www.aarnet.edu.au/network-and-services/advanced-network-services
+Click here to learn more: https://www.aarnet.edu.au/our-network
  
 Remember!
 
