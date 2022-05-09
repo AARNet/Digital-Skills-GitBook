@@ -12,7 +12,7 @@
   * [Staying safe online and online privacy](digital-identity-wellbeing/safety-privacy.md)
   * [Phishing and identity theft](digital-identity-wellbeing/phishing.md)
   * [Cyber wellbeing - catfishing, bullying and legal protections](digital-identity-wellbeing/catfishing-bullying.md)
-  * [Using passwords managers](digital-identity-wellbeing/password-managers.md)
+  * [Using password managers](digital-identity-wellbeing/password-managers.md)
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
   * [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)
