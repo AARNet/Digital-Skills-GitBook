@@ -25,7 +25,7 @@ Contributions have been requested in the following areas:
 | Data-driven decision making | All proficiency levels |
 | Data mining | All proficiency levels |
 | Data sources | All proficiency levels |
-| Deep fakes | Adept level, located in [Deciphering Fake News](https://github.com/AARNet/Digital-Skills-GitBook/tree/6e97532c5b5b96b0334649f05e2f4f7abe8b638a/information-literacy-media-literacy-and-data-literacy/deciphering-fake-news.md) |
+| Deep fakes | Adept level, located in [Deciphering Fake News](information-literacy-media-literacy-and-data-literacy/deciphering-fake-news.md) |
 | ISO dates | All proficiency levels |
 | Managing collections | All proficiency levels |
 | Reading data | All proficiency levels |
