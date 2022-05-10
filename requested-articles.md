@@ -29,7 +29,7 @@ Contributions have been requested in the following areas:
 | ISO dates | All proficiency levels |
 | Managing collections | All proficiency levels |
 | Reading data | All proficiency levels |
-| Searching via databases and Google Scholar | All proficiency levels |
+| Searching via databases and Google Scholar | Proficent and Advanced levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
 | Types of data | All proficiency levels |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data \(collection and management\) | All proficiency levels |
