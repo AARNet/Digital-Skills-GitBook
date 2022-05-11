@@ -1,4 +1,4 @@
-# Using web rooms
+# Using QR codes
 
 ## Overview 
 

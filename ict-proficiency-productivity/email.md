@@ -1,4 +1,4 @@
-# Using web rooms
+# Accessing and sending emails
 
 ## Overview 
 

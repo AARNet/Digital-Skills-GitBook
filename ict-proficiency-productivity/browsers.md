@@ -1,4 +1,4 @@
-# Using web rooms
+# Installing and accessing browsers
 
 ## Overview 
 

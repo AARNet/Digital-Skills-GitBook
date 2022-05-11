@@ -1,4 +1,4 @@
-# Using web rooms
+# Setting up static websites
 
 ## Overview 
 

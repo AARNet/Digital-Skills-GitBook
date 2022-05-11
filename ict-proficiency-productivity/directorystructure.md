@@ -1,4 +1,4 @@
-# Using web rooms
+# Creating a directory structure
 
 ## Overview 
 
