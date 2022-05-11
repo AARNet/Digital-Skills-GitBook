@@ -64,10 +64,10 @@ Contributions have been requested in the following areas:
 | Microsoft PowerPoint | All proficiency levels |
 | Microsoft Word | All proficiency levels |
 | Naming and organising files and folders | All proficiency levels |
-| Networks: the internet and how it works | All proficiency levels |
+| Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
-| README files | All proficiency levels |
+| README files | Proficient and Advanced levels |
 | Saving documents to portable and online storage | All proficiency levels |
 | Uploading and downloading files | All proficiency levels |
 | Using QR codes | All proficiency levels |
