@@ -1,4 +1,4 @@
-# Using collaborative tools (eg Jamboard, Padlet, etc)
+# Using collaborative tools
 
 ## Overview 
 
