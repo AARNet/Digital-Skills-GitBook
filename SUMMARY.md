@@ -22,7 +22,7 @@
   * [Printing documents](ict-proficiency-productivity/printing.md)
   * [Accessing and sending emails](ict-proficiency-productivity/email.md)
   * [Using QR codes](ict-proficiency-productivity/qrcodes.md)
-  * [README files(ict-proficiency-productivity/readme-file.md)
+  * [README files](ict-proficiency-productivity/readme-file.md)
   * [Networks: the internet and how it works](ict-proficiency-productivity/internet.md)
   * [Using a search engine](ict-proficiency-productivity/searchengines.md)
   * [Saving documents to portable and online storage](ict-proficiency-productivity/storingfiles.md)
