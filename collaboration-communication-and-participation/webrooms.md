@@ -1,4 +1,4 @@
-# Using web rooms (e.g. Zoom, Teams)
+# Using web rooms
 
 ## Overview 
 
