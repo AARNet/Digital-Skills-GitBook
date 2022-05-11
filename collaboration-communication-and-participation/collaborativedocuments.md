@@ -1,4 +1,4 @@
-# Using collaborative documents (eg Google Docs)
+# Using collaborative documents
 
 ## Overview 
 
