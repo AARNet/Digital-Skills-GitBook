@@ -1,4 +1,4 @@
-# Collecting and managing data
+# Working with data - collection and management
 
 ## Overview 
 
