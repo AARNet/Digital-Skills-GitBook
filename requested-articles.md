@@ -59,10 +59,10 @@ Contributions have been requested in the following areas:
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
 | Installing and accessing browsers | All proficiency levels |
-| Microsoft Excel | All proficiency levels |
-| Microsoft Outlook | All proficiency levels |
-| Microsoft PowerPoint | All proficiency levels |
-| Microsoft Word | All proficiency levels |
+| Using spreadsheet applications | All proficiency levels |
+| Using e-mail applications | All proficiency levels |
+| Creating presentations | All proficiency levels |
+| Using word processor applications | All proficiency levels |
 | Naming and organising files and folders | All proficiency levels |
 | Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
@@ -90,7 +90,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Using collaborative documents \(e.g. Google Docs\) | All proficiency levels |
-| Using collaborative tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
+| Using collaboration and engagement tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
 | Using the Cloud | All proficiency levels |
 | Using web rooms \(e.g. Zoom, Teams\) | All proficiency levels |
 
