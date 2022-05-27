@@ -90,7 +90,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Using collaborative documents \(e.g. Google Docs\) | All proficiency levels |
-| Using collaborative tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
+| Using collaboration and engagement tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
 | Using the Cloud | All proficiency levels |
 | Using web rooms \(e.g. Zoom, Teams\) | All proficiency levels |
 
