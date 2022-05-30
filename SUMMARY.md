@@ -5,6 +5,7 @@
 * [Copyright Statement](copyright-statement.md)
 * [Contributing to the Digital Skills GitBook](CONTRIBUTING.md)
 * [1. Digital identity and wellbeing](digital-identity-wellbeing/README.md)
+*  * [Developing a digital presence](developing-a-digital-presence/README.md)
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
