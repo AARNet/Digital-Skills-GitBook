@@ -1,4 +1,4 @@
-#Getting started
+# Getting started
 ## Phishing
 Phishing is a type of scam where criminals will try to trick you into giving away personal information like credit card details, passwords or bank account numbers. The most common method of contact for phishing scams is phone, email and text message but they can also come through the mail, mobile apps, social media or webpages.
 Phishing scams may claim to come from a bank, telecommunications company, delivery company or other organisation you deal with regularly. They can look real and be difficult to tell apart from genuine communication. Signs to look for:
@@ -11,7 +11,7 @@ If you are not sure if something is a scam you can contact the organisation dire
 
 If you think you have given away personal information to the wrong person contact your financial institution immediately.
 
-#Proficient
+# Proficient
 ## Identity theft
 Phishing can lead to identity theft but your identity can also be stolen by hacking, malware, document theft or fake online profiles. Criminals may use your identity to:
 - Steal money from your back account or superannuation
@@ -26,11 +26,11 @@ These are some of the signs that your identity may have been stolen:
 - You are refused credit because of outstanding debts you did not accrue 
 - You are contacted by debt collectors
 
-#Advanced
+# Advanced
 ## Spear phishing
 Spear phishing (also known as whaling) is a more sophisticated type of phishing scam. Criminals will use genuine information about people or organisations to target them specifically. The information they use may be publicly available or may have been stolen. They will spend a lot of time and effort into engineering messages to make them seem legitimate and manipulate people to act. 
 
-#Helpful resources
+# Helpful resources
 ## Protect yourself
 Some of the ways you can help protect yourself from phishing scams and identity theft are:
 - Do not click links or open attachments unless you are certain who they came from
