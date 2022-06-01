@@ -25,11 +25,11 @@ Contributions have been requested in the following areas:
 | Data-driven decision making | All proficiency levels |
 | Data mining | All proficiency levels |
 | Data sources | All proficiency levels |
-| Deep fakes | Adept level, located in [Deciphering Fake News](https://github.com/AARNet/Digital-Skills-GitBook/tree/6e97532c5b5b96b0334649f05e2f4f7abe8b638a/information-literacy-media-literacy-and-data-literacy/deciphering-fake-news.md) |
+| Deep fakes | Adept level, located in [Discerning Fake News](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md) |
 | ISO dates | All proficiency levels |
 | Managing collections | All proficiency levels |
 | Reading data | All proficiency levels |
-| Searching via databases and Google Scholar | All proficiency levels |
+| Searching via databases and Google Scholar | Proficent and Advanced levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
 | Types of data | All proficiency levels |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data \(collection and management\) | All proficiency levels |
@@ -59,15 +59,15 @@ Contributions have been requested in the following areas:
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
 | Installing and accessing browsers | All proficiency levels |
-| Microsoft Excel | All proficiency levels |
-| Microsoft Outlook | All proficiency levels |
-| Microsoft PowerPoint | All proficiency levels |
-| Microsoft Word | All proficiency levels |
+| Using spreadsheet applications | All proficiency levels |
+| Using e-mail applications | All proficiency levels |
+| Creating presentations | All proficiency levels |
+| Using word processor applications | All proficiency levels |
 | Naming and organising files and folders | All proficiency levels |
-| Networks: the internet and how it works | All proficiency levels |
+| Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
-| README files | All proficiency levels |
+| README files | Proficient and Advanced levels |
 | Saving documents to portable and online storage | All proficiency levels |
 | Uploading and downloading files | All proficiency levels |
 | Using QR codes | All proficiency levels |
@@ -90,7 +90,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Using collaborative documents \(e.g. Google Docs\) | All proficiency levels |
-| Using collaborative tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
+| Using collaboration and engagement tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
 | Using the Cloud | All proficiency levels |
 | Using web rooms \(e.g. Zoom, Teams\) | All proficiency levels |
 

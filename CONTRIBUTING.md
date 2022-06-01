@@ -2,7 +2,7 @@
 
 The Digital Skills GitBook is an open source project and like many projects on GitHub we welcome your contributions. 
 
-If you have knowledge or expertise on one of our [requested topics](https://aarnet.gitbook.io/digital-skills-gitbook-1/requested-articles), we would love you to write an article for the book. Please let us know what you'd like to write about via our [contributor form](https://github.com/AARNet/Digital-Skills-GitBook/issues/new?assignees=sarasrking&labels=contributors&template=contributor-form.yml&title=Contributor+form%3A+).
+If you have knowledge or expertise on one of our [requested topics](https://aarnet.gitbook.io/digital-skills-gitbook-1/requested-articles), we would love you to write an article for the book. Please let us know what you'd like to write about via our [contributor form](https://github.com/AARNet/Digital-Skills-GitBook/issues/new?assignees=sarasrking&labels=contributors&template=contributor-form.yml&title=Contributor+form%3A+) or by sending us an e-mail digidexlibrarians+gitbook@gmail.com.
 
 There are other ways to contribute too. For example, you might:
 
@@ -47,7 +47,7 @@ Before you start, please familiarise yourself with our [Code of Conduct](https:/
 7. Commit your changes directly to the master branch.
 8. Then open SUMMARY.md and select Edit this file. This file is the GitBook’s Table of Contents. Add your page by copying the existing format and structure.
 9. Commit your changes directly to the master branch.
-10. Now you will need to submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#pullrequest) to notify the project team. Click on the Pull requests heading and start a New pull request.
+10. Now you will need to submit a [pull request](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/glossary.md#p) to notify the project team. Click on the Pull requests heading and start a New pull request.
 11. Ensure the base repository is AARNET/Digital-Skills-GitBook and head repository is your forked repository. Then click on Create pull request.
 12. You will need to add a Title for your pull request. You will also need to leave a comment. This can be a short description of the changes you have made. Then click on Create pull request to finalise the request. 
 
