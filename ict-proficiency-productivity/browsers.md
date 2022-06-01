@@ -28,7 +28,7 @@ Some of the more popular browers that you will encounter are:
 Some considerations that you should make when choosing your browser would be:
 - What operating system do you have on your computer? 
   - Safari usually comes with an Apple computer where Microsoft Edge is provided with Windows. 
-  - However all browsers are compatible with all systems. Just be sure to download the right version for your device.
+  - Most browsers are compatible with all systems. Just be sure to download the right version for your device.
 - Have you already set up an account with Google, Microsoft's Internet Explorer, or Apple? 
   -  Each browser allows you to set up an account so that you can sync your browsing history and settings across multiple devices. 
   -  For example: if you are part of the Google Space you might consider Google Chrome as that will allow you to use your account to sync with your phone and access documents and services run through Google. 
