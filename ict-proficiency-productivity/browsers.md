@@ -15,7 +15,7 @@ In this article we'll be looking at:
 
 ### What browser should I pick?
 
-There are various types of browsers out there. Each of them have their own strengths and weaknesses. Depending on what type of computer operating system you have and what you might prefer in functionality, or if you are just picking on looks there are a many choices out there. 
+There are various types of browsers out there. Each of them have their own strengths and weaknesses. Depending on what type of computer operating system you have and what you might prefer in functionality, or if you are just picking on looks, there are a many choices out there. 
 
 Some of the more popular browers that you will encounter are:
 - [Google Chrome](https://www.google.com/intl/en_au/chrome/)
