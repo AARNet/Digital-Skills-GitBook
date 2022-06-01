@@ -38,7 +38,7 @@ Some considerations that you should make when choosing your browser would be:
 
 Follow the links in the list above to visit the Download page of those selected browsers to learn more about them. When you're ready to install select "Download" in the website.
 
-
+### Installing the browser (coming soon)
 
 ## Browser functionality (coming soon)
 
