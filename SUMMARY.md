@@ -5,6 +5,7 @@
 * [Copyright Statement](copyright-statement.md)
 * [Contributing to the Digital Skills GitBook](CONTRIBUTING.md)
 * [1. Digital identity and wellbeing](digital-identity-wellbeing/README.md)
+  * [Developing a digital presence](developing-a-digital-presence.md)
   * [Considering environmental impacts](digital-identity-wellbeing/environmental-impacts.md)
   * [Curating material across networks and platforms](digital-identity-wellbeing/curating.md)
   * [Cyber wellbeing - catfishing, bullying and legal protections](digital-identity-wellbeing/catfishing-bullying.md)
