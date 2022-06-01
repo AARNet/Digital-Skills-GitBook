@@ -33,8 +33,8 @@ Some considerations that you should make when choosing your browser would be:
   -  Each browser allows you to set up an account so that you can sync your browsing history and settings across multiple devices. 
   -  For example: if you are part of the Google Space you might consider Google Chrome as that will allow you to use your account to sync with your phone and access documents and services run through Google. 
 -  Are you concerned about website tracking?
-  - Some browsers like Firefox have additional settings included that focus more on privacy and security. 
-  - Other browsers like Google Chrome may focus more on personalisation and customisation of content based on your interactions. 
+    -  Some browsers like Firefox have additional settings included that focus more on privacy and security. 
+   -  Other browsers like Google Chrome may focus more on personalisation and customisation of content based on your interactions. 
 
 Follow the links in the list above to visit the Download page of those selected browsers to learn more about them. When you're ready to install select "Download" in the website.
 
