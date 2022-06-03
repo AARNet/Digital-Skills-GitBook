@@ -38,7 +38,7 @@ Some considerations that you should make when choosing your browser would be:
 
 If you choose to switch to another browser from your current one you will need to download and install it on to your computer. If you click on the links in the browser list above, or go to the application store or website of another browser that you wish to use you will be able to download and install the browsers from there.
 
-### Installing the browser
+## Installing the browser
 
 To install a browser you can do this through a couple of methods depending on your device. 
 
@@ -62,8 +62,31 @@ Locate the new program icon from your Start Menu. When it asks you to set it as 
 The internet browser isn't just a program to display websites. Modern browsers can do a lot more when it comes to productivity, customisation, and personalisation. 
 
 Some of the things a browser can do are:
-- 
+- Navigate to a page on the [internet](https://aarnet.gitbook.io/digital-skills-gitbook-1/ict-proficiency-productivity/internet)
+- Search the internet using a designated [search engine](https://aarnet.gitbook.io/digital-skills-gitbook-1/ict-proficiency-productivity/searchengines)
+- [Bookmark](https://aarnet.gitbook.io/digital-skills-gitbook-1/ict-proficiency-productivity/bookmarks) and save locations on the internet to visit later
+- Personalise and save settings between computers using the same browser*
+- Share web pages between devices*
+- Add on tools like password managers, citation tools, and colourblindness assistance
 
+*These require a personal account set up with the browser
+
+## Parts of your browser (Draft)
+
+The browser has a lot of parts attached to it. Each of them work together to help you work with the complexities of the internet. 
+
+### The Address Bar
+
+This is where you will put the address of the website that you want so the browser knows what to bring back to you. 
+
+The address bar also doubles as a search function. If you put in a search or some words instead of a web address it will use it's default search engine (Google, Bing etc.) to look up those words on the internet. 
+
+### Navigation Buttons
+
+These are located just to the left of your address bar. Usually you would have 3:
+- Back 	&#8592;
+- Forward &#8594;
+- Refresh/Stop &#8635; 
 
 ## Advanced (coming soon)
 
