@@ -61,7 +61,7 @@
   * [Webscraping](digital-creation-problem-solving-and-innovation/webscraping)
 * [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
   * [Using the cloud](collaboration-communication-and-participation/cloud.md)
-  * [Using collaborative documents](collaboration-communication-and-participation/cloud.md)
+  * [Using collaborative documents](collaboration-communication-and-participation/collaborativedocuments.md)
   * [Using collaborative tools](collaboration-communication-and-participation/collaborativetools.md)
   * [Using web rooms](collaboration-communication-and-participation/webrooms.md)
 * [Glossary](glossary.md)
