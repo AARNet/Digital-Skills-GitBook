@@ -16,16 +16,15 @@ In short, the benefits of using password managers include:
 Sounds simple, right? Well, with a *little* bit of work, you can have a password manager set up and running across **multiple devices**, keeping your passwords for your personal and professional life at hand as you need them. 
 
 This short, entertaining video from ABC TV’s The Checkout explains more about why password managers are such a **great idea**.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IgCHcuCw_RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![The Checkout: Passwords](https://i.ytimg.com/vi/IgCHcuCw_RQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB70ZKxrPni5HWcXwi7N_MLTSpEkQ)](https://www.youtube.com/embed/IgCHcuCw_RQ)
 
 There are many different password management software options available, including:
-*	LastPass
-*	OnePass
-*	BitWarden
-* KeePass
-* 1Password
+*	[LastPass]([url](https://www.lastpass.com/))
+*	[1Password]([url](https://1password.com/))
+*	[BitWarden]([url](https://bitwarden.com/))
+* [KeePass]([url](https://keepass.info/))
 
-Apple and Google products like mobile devices come with password management options as well, and Microsoft (via the Authenticator app) also offers a password manager option.
+Devices from Apple (via [iCloud Keychain]([url](https://support.apple.com/en-au/HT204085))) and Google (via [Password Manager]([url](https://passwords.google.com/))) come with password management options as well.
 
 Click on the links above to explore more about the options available. Alternatively, [this video from Deakin University Library provides an explanation and demonstration of LastPass]([url](https://video.deakin.edu.au/media/t/0_7p844h8y/)), although we are not necessarily recommending LastPass over any of the other options.
 
