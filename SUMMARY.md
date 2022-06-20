@@ -8,6 +8,7 @@
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
+   * [Creating engaging online learning](https://github.com/rcamnewcastle/Digital-Skills-GitBook/blob/master/digital-learning-and-development/engaging-online-learning.md)
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
