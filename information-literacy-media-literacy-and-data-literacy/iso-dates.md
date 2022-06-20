@@ -28,6 +28,9 @@ Remember that computer file systems have a specific way of sorting files. If you
 ## Helpful resources  
 
 https://www.researchgate.net/publication/327519043_The_Problem_with_Dates_Applying_ISO_8601_to_Research_Data_Management
+
 https://www.w3.org/TR/NOTE-datetime
-https://www.data.cam.ac.uk/data-management-guide/organising-your-data 
+
+https://www.data.cam.ac.uk/data-management-guide/organising-your-data
+
 https://slides.djnavarro.net/project-structure/#1 
