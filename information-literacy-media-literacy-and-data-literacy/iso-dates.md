@@ -18,7 +18,9 @@ Big tip: There are no spaces!
 Your file names may end up looking something like this:
 
 2020-12-01_participants-list.xml
+
 2022-06-03_interview.doc
+
 2022-07-03_analysis.r
 
 Remember that computer file systems have a specific way of sorting files. If your file names all start with an ISO date, they will automatically sort from oldest to newest using the default alphabetical sort. Any other date-based naming convention would create different results.
