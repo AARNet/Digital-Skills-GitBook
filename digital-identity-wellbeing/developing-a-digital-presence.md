@@ -44,7 +44,7 @@ Before signing up for paired sign-ins, where you give one site permission to acc
 
 ## Helpful resources
 
-Etzscheid, O. (2016). What is digital identity? Issues, tools, methodologies. OpenEdition Press. https://books.openedition.org/oep/1235(https://books.openedition.org/oep/1235) 
+Etzscheid, O. (2016). What is digital identity? Issues, tools, methodologies. OpenEdition Press. <https://books.openedition.org/oep/1235(https://books.openedition.org/oep/1235)> 
 
-Rowell, C. (2019). Social media in higher education. Open Book Publishers. https://www.openbookpublishers.com/product/945(https://www.openbookpublishers.com/product/945) 
+Rowell, C. (2019). Social media in higher education. Open Book Publishers. <https://www.openbookpublishers.com/product/945(https://www.openbookpublishers.com/product/945)> 
 
