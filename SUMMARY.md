@@ -27,6 +27,7 @@
   * [Working with data - collection and management](information-literacy-media-literacy-and-data-literacy/working-with-data.md)
   * [Visualising data](information-literacy-media-literacy-and-data-literacy/visualising-data.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
+  * [Creating engaging online learning](digital-learning-and-development/engaging-online-learning.md)
   * [Accessibility](digital-learning-and-development/accessibility.md)
   * [How to create engaging online learning](digital-learning-and-development/engaging-online-learning.md)
   * [Inclusive teaching practices in online learning](digital-learning-and-development/inclusive-teaching-online.md)
@@ -35,6 +36,7 @@
   * [Open access resources](digital-learning-and-development/open-access-resources.md)
   * [Pedagogy and andragogy in an online environment](digital-learning-and-development/pedagogy-and-andragogy-in-an-online-environment.md)
   * [Student experience](digital-learning-and-development/student-experience.md)  
+
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
   * [Downloading apps to phone](ict-proficiency-productivity/apps.md)
   * [Bookmarking a web page and organising bookmarks](ict-proficiency-productivity/bookmarks.md)
