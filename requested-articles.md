@@ -13,7 +13,7 @@ Contributions have been requested in the following areas:
 | Developing a digital presence | Complete |
 | Digital decluttering | All proficiency levels |
 | Staying safe online/online privacy | All proficiency levels |
-| Phishing and identify theft | All proficiency levels |
+| Phishing and identify theft | Complete |
 | Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
 | Using password managers | All proficiency levels |
 
@@ -59,7 +59,7 @@ Contributions have been requested in the following areas:
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
 | Installing and accessing browsers | All proficiency levels |
-| Using spreadsheet applications | All proficiency levels |
+| Using spreadsheet applications | In progress |
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
 | Using word processor applications | All proficiency levels |
