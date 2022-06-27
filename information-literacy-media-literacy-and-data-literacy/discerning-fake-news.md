@@ -11,7 +11,7 @@ This article will cover:
 * Filter bubbles
 * Deep fakes
 
-## Getting started
+## Developing
 
 **Fake news** involves hoaxes, opinions, scams, or misleading or false information presented as legitimate news stories. It is capable of disrupting elections, economies, social movements, reputations, geo-political conflicts and more. While some fake news may appear fake, others are increasingly more sophisticated.
 
@@ -52,7 +52,7 @@ The best way to establish the credibility of information is through a process ca
 
 Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content.
 
-## Proficient
+## Skilled
 
 **Filter bubbles** are echo chambers of like-minded views, curated through the personalisation of online services \(including news clicks, search behaviour, and social media algorithms\). Filter bubbles affect the flow of information that you receive, reducing or preventing exposure to information that may challenge our world view.
 
@@ -72,7 +72,7 @@ Filter bubbles are therefore the result of both social media algorithms and our 
 * Interact with content outside your comfort zone
 * Follow differing perspectives
 
-## Advanced
+## Adept
 
 _This section needs further development._ [_Add your contribution._](https://app.gitbook.com/@aarnet/s/digital-skills-gitbook-1/contributing-to-the-digital-skills-gitbook)
 

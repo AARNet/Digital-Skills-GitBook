@@ -31,13 +31,13 @@ Click on the links above to explore more about the options available. Alternativ
 The main thing to remember is that using a password manager will keep your important personal login details **more secure** while **making your life easier**. While there is a time investment in transitioning to a password manager, it is **well worth the cost** for the peace of mind and convenience.
 
 
-## Getting started (coming soon)
+## Developing (coming soon)
 
 
-## Proficient (coming soon)
+## Skilled (coming soon)
 
 
-## Advanced (coming soon)
+## Adept (coming soon)
 
 
 ## Helpful resources  

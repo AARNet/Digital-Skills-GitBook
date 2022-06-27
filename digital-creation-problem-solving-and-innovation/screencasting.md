@@ -11,7 +11,7 @@ Screencasts usually have audio. If instructional this will be the person explain
 
 Because screencasts take a video of what is on your screen, you can screencast any media that you show on screen. For example you may screencast a slide presentation, combined with showing websites. You can also often have video of the narrator or instructor to add extra personality or data to the screencast.
 
-## Getting started - tools, software, a place to record
+## Developing - tools, software, a place to record
 Software used to make screencasts consists primarily of the screen recorder tool. However audio, video and editing tools are also a consideration. Where you will record is important and a final important consideration is how you will share your screencast (if required) with others.
 
 There are tools in-built in some later model computers. In Windows 10 settings, Game bar allows you to record gaming action or activity from other applications. In macOS Mojave and higher there is an in-built screen-capture tool accessed by pressing **Shift + Command + 5**
@@ -26,10 +26,10 @@ Extra tools you may need depend on your aims and your exisiting computer set up.
 
 A quiet place to screencast is a must. It does not have to be a professional studio, but less background noise means that audio quality improves greatly.
 
-## Planning a screencast (coming soon)
+## Skilled - Planning a screencast (coming soon)
 
 
-## Advanced (coming soon)
+## Adept (coming soon)
 
 
 ## Helpful resources    
