@@ -23,6 +23,7 @@
   * [Installing and accessing browsers](ict-proficiency-productivity/browsers.md)
   * [README files](ict-proficiency-productivity/readme-file.md)
   * [Networks: the internet and how it works](ict-proficiency-productivity/internet.md)
+  * [Using QR Codes](ict-proficiency-productivity/qrcodes.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
   * [Screencasting](digital-creation-problem-solving-and-innovation/screencasting.md)
