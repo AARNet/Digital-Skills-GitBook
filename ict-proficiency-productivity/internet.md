@@ -12,7 +12,7 @@ This article will cover:
 - Cable or wi-fi? 
 - Networks and connections  
 
-## Getting started 
+## Developing
  
 ### What is a network? 
  
@@ -24,7 +24,7 @@ All networks allow computers to share information and resources.
 
 In simple terms, the internet can be defined as a group of interconnected networks. More specifically it is now the global network of computer networks using standard rules for how information is exchanged through the internet, also known as protocols. 
 
-## Proficient 
+## Skilled
 
 ### How does data move around the internet? 
 
@@ -61,7 +61,7 @@ Speed is constrained by the slowest part of the link, which may be the connectio
  
 Many factors can influence the capacity of a wi-fi connection too. Can you think of any times when your wi-fi has become unstable?
 
-## Advanced
+## Adept
 
 Here is a list of different technologies used in Australia for connecting computers and the internet:
     

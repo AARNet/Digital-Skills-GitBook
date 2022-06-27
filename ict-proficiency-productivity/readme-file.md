@@ -4,16 +4,16 @@
 
 A README file is a document that introduces and explains a project. 
 
-## Getting started
+## Developing
 
 README files contain information about the other files in a directory or folder. The concept comes from programming but is also very useful for research projects.  It is usually a simple plain text file called README in capital letters. 
 
 A good README includes information that helps the reader understand what the project is about. 
 
-## Proficient (coming soon)
+## Skilled (coming soon)
 
 
-## Advanced (coming soon)
+## Adept (coming soon)
 
 
 ## Helpful resources    

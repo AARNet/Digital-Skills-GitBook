@@ -4,7 +4,7 @@
 
 Collaborative documents allow multiple people to work on the same document at the same time. Users can see what others are doing in real time. 
 
-## Getting started
+## Developing
 
 Different platforms provide ways for users to work on collaborative documents. Some are free to use while others require you to pay a subscription. Examples of collaborative software include Google Docs, Microsoft Word online, Dropbox Paper, and ClickUp but there are many more available. 
 
@@ -19,8 +19,7 @@ The benefits of working with collaborative documents include:
 - Remote access allows you to collaborate with others from anywhere.
     
 
-## Proficient
-
+## Skilled
 Features of collaborative documents include:
 
 **Sharing permissions:** This allows you to control who can edit the document and who can only view the document. 
@@ -36,7 +35,7 @@ Features of collaborative documents include:
 **Saving and sharing:** You can email the document directly from the software. No need to go to your email and attach. You can also download the document in other formats, eg save a document file as a PDF file.
 
 
-## Advanced (coming soon)
+## Adept (coming soon)
 
 
 ## Helpful resources    
