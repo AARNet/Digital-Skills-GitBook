@@ -4,7 +4,7 @@
 
 When applying dates to digital file names, the International Organization for Standardization (ISO) date format is recommended. This is a standard way to communicate a date that is understood globally, both by humans and computers. It is also known as [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html).
 
-## Getting started
+## Developing
 
 The aim in using a standard format is to eliminate confusion (especially around the different way dates are represented in the USA compared to Europe, for example) and to make your files more easily searchable and sortable. 
 The specific format is year first, followed by month then day. Each of these is separated by a hyphen, with numbers less than 10 preceded by a zero.
