@@ -12,7 +12,7 @@ In this article we look at:
 
 •	Tips for staying safe and respectful
 
-## Getting started
+## Developing
 
 Having a positive digital presence, online presence or digital identity, is part of being a good digital citizen. It includes what you write and share, websites you visit, the usernames and profile pictures you use, and your behaviour toward others.
 
@@ -24,7 +24,7 @@ Respect others – don’t make your profile picture one with you and your frien
 
 Stay safe – use passwords that people or bots would find hard to guess. Don’t share details such as your home address, birthdate or car licence-plate.
 
-## Proficient
+## Skilled
 
 You should occasionally check the settings of your online accounts. The owners of online platforms often change how the platform works, and you might have no idea your settings now give them permission to give your details to advertisers, or that the platform now owns the photos you shared.
 
@@ -32,7 +32,7 @@ Be aware of copyright. Much of what you see or read online is covered by copyrig
 
 Treat others courteously. You wouldn’t abuse someone in the street, and neither should you be rude or bullying to someone online. If you see a flame-war online, walk away or report it to the owners of the platform.
 
-## Advanced
+## Adept
 
 Your digital presence can be your brand. On sites you use professionally, such as Twitter and LinkedIn, use a single profile image. Keep information up to date when you change workplaces, finish courses or if your Interests change.
 
