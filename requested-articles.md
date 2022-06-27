@@ -29,7 +29,7 @@ Contributions have been requested in the following areas:
 | ISO dates | Complete |
 | Managing collections | All proficiency levels |
 | Reading data | All proficiency levels |
-| Searching via databases and Google Scholar | Proficent and Advanced levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
+| Searching via databases and Google Scholar | Skilled and Adept levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
 | Types of data | In progress |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data \(collection and management\) | All proficiency levels |
@@ -67,7 +67,7 @@ Contributions have been requested in the following areas:
 | Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
-| README files | Proficient and Advanced levels |
+| README files | Skilled and Adept levels |
 | Saving documents to portable and online storage | All proficiency levels |
 | Uploading and downloading files | All proficiency levels |
 | Using QR codes | All proficiency levels |
