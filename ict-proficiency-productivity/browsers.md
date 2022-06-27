@@ -88,7 +88,7 @@ These are located just to the left of your address bar. Usually you would have 3
 - Forward &#8594;
 - Refresh/Stop &#8635; 
 
-## Advanced (coming soon)
+## Adept (coming soon)
 
 
 ## Helpful resources    
