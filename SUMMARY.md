@@ -29,13 +29,8 @@
 * [3. Digital learning and development](digital-learning-and-development/README.md)
   * [Creating engaging online learning](digital-learning-and-development/engaging-online-learning.md)
   * [Accessibility](digital-learning-and-development/accessibility.md)
-  * [How to create engaging online learning](digital-learning-and-development/engaging-online-learning.md)
-  * [Inclusive teaching practices in online learning](digital-learning-and-development/inclusive-teaching-online.md)
-  * [Micro-credentials and badges](digital-learning-and-development/microcredentials-badges.md)
-  * [Navigating the learning management system (LMS)](digital-learning-and-development/navigating-LMS.md)
-  * [Open access resources](digital-learning-and-development/open-access-resources.md)
+  * [Navigating the learning management system (LMS)](digital-learning-and-development/navigating-LMS.md
   * [Pedagogy and andragogy in an online environment](digital-learning-and-development/pedagogy-and-andragogy-in-an-online-environment.md)
-  * [Student experience](digital-learning-and-development/student-experience.md)  
 
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
   * [Installing and accessing browsers](ict-proficiency-productivity/browsers.md)
@@ -43,16 +38,11 @@
   * [Networks: the internet and how it works](ict-proficiency-productivity/internet.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
-  * [Markdown](digital-creation-problem-solving-and-innovation/markdown.md)
-  * [Creating open education resources](digital-creation-problem-solving-and-innovation/oer.md)
   * [Screencasting](digital-creation-problem-solving-and-innovation/screencasting.md)
-  * [Setting up static websites](digital-creation-problem-solving-and-innovation/staticwebsites.md)
-  * [Webscraping](digital-creation-problem-solving-and-innovation/webscraping)
+
 * [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
-  * [Using the cloud](collaboration-communication-and-participation/cloud.md)
   * [Using collaborative documents](collaboration-communication-and-participation/collaborativedocuments.md)
-  * [Using collaborative tools](collaboration-communication-and-participation/collaborativetools.md)
-  * [Using web rooms](collaboration-communication-and-participation/webrooms.md)
+  
 * [Glossary](glossary.md)
 * [Requested articles](requested-articles.md)
 
