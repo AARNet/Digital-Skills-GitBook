@@ -16,7 +16,11 @@ In short, the benefits of using password managers include:
 Sounds simple, right? Well, with a *little* bit of work, you can have a password manager set up and running across **multiple devices**, keeping your passwords for your personal and professional life at hand as you need them. 
 
 This short, entertaining video from ABC TV’s The Checkout explains more about why password managers are such a **great idea**.
+
 [![The Checkout: Passwords](https://i.ytimg.com/vi/IgCHcuCw_RQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG\u0026rs=AOn4CLB70ZKxrPni5HWcXwi7N_MLTSpEkQ)](https://www.youtube.com/embed/IgCHcuCw_RQ)
+
+
+## Getting started
 
 There are many different password management software options available, including:
 *	[LastPass]([url](https://www.lastpass.com/))
@@ -29,15 +33,3 @@ Devices from Apple (via [iCloud Keychain]([url](https://support.apple.com/en-au/
 Click on the links above to explore more about the options available. Alternatively, [this video from Deakin University Library provides an explanation and demonstration of LastPass]([url](https://video.deakin.edu.au/media/t/0_7p844h8y/)), although we are not necessarily recommending LastPass over any of the other options.
 
 The main thing to remember is that using a password manager will keep your important personal login details **more secure** while **making your life easier**. While there is a time investment in transitioning to a password manager, it is **well worth the cost** for the peace of mind and convenience.
-
-
-## Developing (coming soon)
-
-
-## Skilled (coming soon)
-
-
-## Adept (coming soon)
-
-
-## Helpful resources  
