@@ -70,7 +70,7 @@ Contributions have been requested in the following areas:
 | README files | Skilled and Adept levels |
 | Saving documents to portable and online storage | All proficiency levels |
 | Uploading and downloading files | All proficiency levels |
-| Using QR codes | In Progress |
+| Using QR codes | Complete |
 | Using a search engine | All proficiency levels |
 | Using Zoom | All proficiency levels |
 
