@@ -2,8 +2,11 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 50,
-  "commit": false,
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
+  "skipCi": false,
+  "contributorsSortAlphabetically": true,
   "contributors": [
     {
       "login": "miaaaah",
