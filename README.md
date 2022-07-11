@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/living-book-logo.png)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](./#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](./#contributors)
 
 The Living Book of Digital Skills \(You never knew you needed until now\) is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
 
