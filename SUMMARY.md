@@ -33,4 +33,5 @@
   
 * [Glossary](glossary.md)
 * [Requested articles](requested-articles.md)
+* [Our talks, presentations and articles](presentations.md)
 
