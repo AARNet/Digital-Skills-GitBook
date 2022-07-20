@@ -1,12 +1,12 @@
 # Our talks, presentations and articles
 
 
-UPCOMING 
+**UPCOMING** 
 
 Do you Git it? Help us grow a collaborative Open Access Resource! (CAUL Enabling a Modern Curriculum Conference, September 2022)
 
 
-PAST
+**PAST**
 
 [ALIA National Gitbook presentation wrap-up]([https://cloudstor.aarnet.edu.au/plus/s/ZLxTlgbJOs3lCX9](https://www.eventbrite.com.au/e/alia-national-2022-post-con-tickets-328717170907?fbclid=IwAR2OSOiCDru07LHVR7IAw1c_w-cZLQXYyirQyuB4MPd3JXYuTxMEH4dFJ2E)) (ALIA National 2022 post con, July 2022)
 
@@ -22,5 +22,5 @@ PAST
 
 [The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community](https://conference.eresearch.edu.au/events/the-digital-skills-gitbook-project-creating-an-open-source-online-guide-for-researchers-and-the-broader-academic-community/) (eResearch Australasia, October 2021)
 
-[The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community](https://digitaldexterity.edublogs.org/2021/07/12/the-digital-skills-gitbook-project-creating-an-open-source-online-guide-for-researchers-and-the-broader-academic-community/) (CAUL Digital Dexterity Blog, July 2021)
+[The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community](https://digitaldexterity.edublogs.org/2021/07/12/the-digital-skills-gitbook-project-creating-an-open-source-online-guide-for-researchers-and-the-broader-academic-community/) (CAUL Digital Dexterity blog, July 2021)
 
