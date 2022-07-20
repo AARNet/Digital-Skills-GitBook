@@ -26,7 +26,7 @@ Extra tools you may need depend on your aims and your exisiting computer set up.
 
 A quiet place to screencast is a must. It does not have to be a professional studio, but less background noise means that audio quality improves greatly.
 
-## Skilled - Planning a screencast (coming soon)
+## Skilled - Planning a screencast
 The amount of planning for a screencast depends on what you are trying to achieve with your screencast. Here are some possible scenarios of screencasts and preparation required. 
 -  If you are recording someone using your website, it may be useful to have a series of tasks or questions for the user to work their way through.
 -  If you are planning to screencast an online lesson, ensure your lesson plan is prepared and that you ideally have a space to use that is quiet and free of distraction. 
