@@ -3,7 +3,7 @@
 
 **UPCOMING** 
 
-Do you Git it? Help us grow a collaborative Open Access Resource! (CAUL Enabling a Modern Curriculum Conference, September 2022)
+[Do you Git it? Help us grow a collaborative Open Access Resource!](https://caul.eventsair.com/emc2022/full-program) (CAUL Enabling a Modern Curriculum Conference, September 2022)
 
 
 **PAST**
