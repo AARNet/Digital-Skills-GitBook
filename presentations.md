@@ -16,7 +16,7 @@ Gitting together: Creating a Living Book of Digital Skills through failure, fun 
 
 [Gitting by with a little help from my friends: The Living Book of Digital Skills GitBook project](https://youtu.be/znO1WMyf_RU) (Research Support Community Day, February 2022)
 
-The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community (eResearch Australasia, October 2021)
+[The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community](https://conference.eresearch.edu.au/events/the-digital-skills-gitbook-project-creating-an-open-source-online-guide-for-researchers-and-the-broader-academic-community/) (eResearch Australasia, October 2021)
 
 [The Digital Skills GitBook project: creating an open-source online guide for researchers and the broader academic community](https://digitaldexterity.edublogs.org/2021/07/12/the-digital-skills-gitbook-project-creating-an-open-source-online-guide-for-researchers-and-the-broader-academic-community/) (CAUL Digital Dexterity Blog, July 2021)
 
