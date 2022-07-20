@@ -8,7 +8,7 @@
 
 **PAST**
 
-[ALIA National Gitbook presentation wrap-up]([https://cloudstor.aarnet.edu.au/plus/s/ZLxTlgbJOs3lCX9](https://www.eventbrite.com.au/e/alia-national-2022-post-con-tickets-328717170907?fbclid=IwAR2OSOiCDru07LHVR7IAw1c_w-cZLQXYyirQyuB4MPd3JXYuTxMEH4dFJ2E)) (ALIA National 2022 post con, July 2022)
+[Digital Skills Gitbook presentation wrap-up](https://www.eventbrite.com.au/e/alia-national-2022-post-con-tickets-328717170907?fbclid=IwAR2OSOiCDru07LHVR7IAw1c_w-cZLQXYyirQyuB4MPd3JXYuTxMEH4dFJ2E) (ALIA National 2022 post con, July 2022)
 
 [Gittin' techy with it: our journey using Gitbook and crowdsourcing to build a modern not-quite-technical skills guide](https://www.vala.org.au/vala2022-proceedings/vala2022-onsite-session-21-king/#) (VALA, June 2022) 
 
