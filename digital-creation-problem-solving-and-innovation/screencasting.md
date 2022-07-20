@@ -27,6 +27,20 @@ Extra tools you may need depend on your aims and your exisiting computer set up.
 A quiet place to screencast is a must. It does not have to be a professional studio, but less background noise means that audio quality improves greatly.
 
 ## Skilled - Planning a screencast (coming soon)
+The amount of planning for a screencast depends on what you are trying to achieve with your screencast. Here are some possible scenarios of screencasts and preparation required. 
+-  If you are recording someone using your website, it may be useful to have a series of tasks or questions for the user to work their way through.
+-  If you are planning to screencast an online lesson, ensure your lesson plan is prepared and that you ideally have a space to use that is quiet and free of distraction. 
+-  It is also useful to ensure that your status is ‘do not disturb’ on your phone, close programs that have pop-up notifications, hide links on browser toolbars, and even clear the memory and cache of your browser windows. You never know what random auto-completes are in your history or personal information may be revealed. 
+-  If your platform allows and the online lesson is long, it is also a good idea to put in chapter markers for each section that is a different topic.
+-  If you are planning on a screencast that will serve as a generic standalone video on a platform like YouTube, more work will be required to prepare.
+
+    - Source video editing software and audio editing software. 
+    - Develop a script for the voice over. It is worth reading the script aloud as what looks good on paper may be a tongue twister when spoken. Also consider your audience and keep the video short and possibly informal.
+    - You may want to identify a person who is willing to do voice over for the video. Often this type of screencast requires video editing, and it can be confronting editing to the sound of your own voice.
+    - Test audio recording methods and listen to the quality of the play back. Listen carefully for background machine hum, doors, echo in the room, other people talking, voice over volume and anything else that may be distracting from a good quality recording. Good results can be achieved with a smart phone and/or headphone and a microphone. 
+    - You may need to consider creating a storyboard of the visuals. Storyboards are used by film and television to visualise the story. You could use storyboards to identify what is important to see on screen, like a close-up on part of a webpage.
+Identify and source additional artifacts to illustrate your video such as photographs of a space, images of a resource, a file of a logo. Make sure you attribute 
+ 
 
 
 ## Adept (coming soon)
