@@ -12,7 +12,9 @@ PAST
 
 [Contribute to The Living Book of Digital Skills](http://moderncurriculum.caul.edu.au/2022/04/22/contribute-to-the-living-book-of-digital-skills/) (CAUL Enabling a Modern Curriculum webpage, April 2022)
 
-Gitting together: Creating a Living Book of Digital Skills through failure, fun and friendship (ALIA National, May 2022)
+[Gitting together: Creating a Living Book of Digital Skills through failure, fun and friendship] (https://www.alia.org.au/Conference/Abstracts/Concurrent-Sessions/Gitting-together.aspx) (ALIA National, May 2022)
+
+[Contribute to The Living Book of Digital Skills] (http://moderncurriculum.caul.edu.au/2022/04/22/contribute-to-the-living-book-of-digital-skills/) (by Kate Davis, CAUL Enabling Modern Curriculum, April 2022)
 
 [Gitting by with a little help from my friends: The Living Book of Digital Skills GitBook project](https://youtu.be/znO1WMyf_RU) (Research Support Community Day, February 2022)
 
