@@ -1,6 +1,6 @@
 # Digital Skills GitBook
 
-![](.gitbook/assets/living-book-logo.png)
+![](.gitbook/assets/the-living-book-logo.png)
 
 The Living Book of Digital Skills \(You never knew you needed until now\) is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
 
