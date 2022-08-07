@@ -27,7 +27,7 @@ There are a number of free, online QR code generators available. Some options in
 
 •	[Q Code Monkey](https://www.qrcode-monkey.com/)
 
-They all work in a similar manner in that you can simply copy and past your URL into the webpage and it generates the QR code. Each of these tools enables you to customise the size of your QR code and other settings. 
+They all work in a similar manner in that you can simply copy and paste your URL into the webpage and it generates the QR code. Each of these tools enables you to customise the size of your QR code and other settings. 
 
 **Tip:** Think carefully about the size of your QR code. A code that’s too small will likely be too small for smartphone cameras to focus on. Be aware that reflection can impact on readability of the QR code.
 
