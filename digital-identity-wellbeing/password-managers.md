@@ -33,3 +33,5 @@ Devices from Apple (via [iCloud Keychain]([url](https://support.apple.com/en-au/
 Click on the links above to explore more about the options available. Alternatively, [this video from Deakin University Library provides an explanation and demonstration of LastPass]([url](https://video.deakin.edu.au/media/t/0_7p844h8y/)), although we are not necessarily recommending LastPass over any of the other options.
 
 The main thing to remember is that using a password manager will keep your important personal login details **more secure** while **making your life easier**. While there is a time investment in transitioning to a password manager, it is **well worth the cost** for the peace of mind and convenience.
+
+You may also wish to try a password generator such as [https://onlinepasswordgenerator.com/passwords/](https://onlinepasswordgenerator.com/passwords/) to get you started on better passwords.
