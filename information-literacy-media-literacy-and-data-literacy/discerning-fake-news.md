@@ -48,7 +48,7 @@ However, some articles may not immediately strike you as suspicious. When readin
 * Can you find corroboration for the points being made elsewhere on the internet?
 * Are the quotes or examples used only part of what was said? Have they been taken out of context?
 
-The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This contrasts to simply reading a webpage's 'About Us' page, instead searching the rest of the web for more information about the author or organisation who created the information, the date it was posted, and more. As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose.
+The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This contrasts from simply reading a webpage's 'About Us' page and taking it at face value, to also searching the rest of the web for more information about the author or organisation who created the information, the date it was posted, what others have to say about the topic and more.  As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose.
 
 Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content.
 
