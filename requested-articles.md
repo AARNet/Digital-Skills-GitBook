@@ -15,7 +15,7 @@ Contributions have been requested in the following areas:
 | Staying safe online/online privacy | All proficiency levels |
 | Phishing and identify theft | Complete |
 | Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
-| Using password managers | All proficiency levels |
+| Using password managers | Complete |
 
 ## 2. Information literacy, media literacy and data literacy
 
@@ -63,7 +63,7 @@ Contributions have been requested in the following areas:
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
 | Using word processor applications | All proficiency levels |
-| Naming and organising files and folders | All proficiency levels |
+| Naming and organising files and folders | In progress |
 | Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
