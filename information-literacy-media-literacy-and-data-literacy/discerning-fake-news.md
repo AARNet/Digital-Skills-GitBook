@@ -48,7 +48,7 @@ However, some articles may not immediately strike you as suspicious. When readin
 * Can you find corroboration for the points being made elsewhere on the internet?
 * Are the quotes or examples used only part of what was said? Have they been taken out of context?
 
-The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This includes searching for more information about the author or organisation who created the information, the date it was posted, and more. As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose.
+The best way to establish the credibility of information is through a process called **lateral reading**. The process of lateral reading involves reading across sources, checking information as it’s presented to you. This contrasts from simply reading a webpage's 'About Us' page and taking it at face value, to also searching the rest of the web for more information about the author or organisation who created the information, the date it was posted, what others have to say about the topic and more.  As an evaluation method, we recommend the CRAAP method, which checks for Currency, Relevance, Authority, Accuracy and Purpose.
 
 Someone may have also done the work for you! Media literacy sites such as [snopes.com](https://www.snopes.com) and [factcheck.org](https://www.factcheck.org) check the authenticity of news and viral content.
 
@@ -98,4 +98,8 @@ _This section needs further development._ [_Add your contribution._](https://app
 [https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them](https://www.theguardian.com/technology/2020/jan/13/what-are-deepfakes-and-how-can-you-spot-them)
 
 [https://youtu.be/gLoI9hAX9dw](https://youtu.be/gLoI9hAX9dw)
+
+[https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/](https://webliteracy.pressbooks.com/chapter/what-reading-laterally-means/)
+
+[https://commons.emich.edu/loexquarterly/vol31/iss3/4/](https://commons.emich.edu/loexquarterly/vol31/iss3/4/)
 
