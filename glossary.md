@@ -17,6 +17,7 @@
 ## D
 
 * **deep fakes** – fake videos or images created using AI and machine learning that feature well-known or fictional people doing or saying things that are not real.
+* * **doxing** or **doxxing** – gathering someone's personal information and publishing it with the intention of harrassment, or having your personal information shared in such a manner.
 
 ## E
 
@@ -50,6 +51,7 @@
 
 ## P
 
+* **password manager** - a computer program that allows users to store, create, and manage their passwords for websites and software.
 * **pull request** – when you request changes that you have made to a repository be merged into the original repository.
 
 ## Q
