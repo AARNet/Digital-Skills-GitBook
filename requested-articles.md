@@ -15,7 +15,7 @@ Contributions have been requested in the following areas:
 | Staying safe online/online privacy | All proficiency levels |
 | Phishing and identify theft | Complete |
 | Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
-| Using password managers | Complete |
+| Using password managers | [Needs review](https://github.com/AARNet/Digital-Skills-GitBook/issues/133) |
 
 ## 2. Information literacy, media literacy and data literacy
 
