@@ -64,6 +64,8 @@
 
 ## S
 
+* **search engine optimisation (SEO)** - the practices of improving a website's content, formatting and style to try to appear in the first few results for a search on the subject of your website.
+
 ## T
 
 ## U
