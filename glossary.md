@@ -27,6 +27,7 @@
 * **fake news** – hoaxes, opinions, scams, or misleading or false information presented as legitimate news stories.
 * **filter bubbles** – digital echo chambers of like-mided views and ideas, curated through algorithms, user behaviour, and the personalisation of online services.
 * **fork** – a copy of a repository that you manage. Lets you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests from your fork.
+* **free and open-source software** or **FOSS** - software that is licensed so that anyone can use, copy, study, and change the software in any way, and the source code is openly shared and volunteers are encouraged to improve the software.
 
 ## G
 
