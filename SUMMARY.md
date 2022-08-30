@@ -38,6 +38,7 @@
   * [Downloading apps to phone](ict-proficiency-productivity/apps.md)
   * [Bookmarking a web page and organising bookmarks](ict-proficiency-productivity/bookmarks.md)
   * [Installing and accessing browsers](ict-proficiency-productivity/browsers.md)
+  * [Using spreadsheet applications](ict-proficiency-productivity/spreadsheets.md)
   * [Digital preservation: file formats and how to change them](ict-proficiency-productivity/digitalpreservation.md)
   * [Creating a directory structure](ict-proficiency-productivity/directorystructure.md)
   * [Opening, editing and saving documents](ict-proficiency-productivity/documents.md)
