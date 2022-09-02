@@ -12,7 +12,7 @@ If you think you have given away personal information to the wrong person contac
 
 # Identity theft
 Phishing can lead to identity theft but your identity can also be stolen by hacking, malware, document theft or fake online profiles. Criminals may use your identity to:
-- Steal money from your back account or superannuation
+- Steal money from your bank account or superannuation
 - Apply for loans or lines of credit
 - Take out phone plans or other contracts
 - Purchase expensive goods
@@ -30,6 +30,7 @@ Spear phishing (also known as whaling) is a more sophisticated type of phishing 
 # Protect yourself
 Some of the ways you can help protect yourself from phishing scams and identity theft are:
 - Do not click links or open attachments unless you are certain who they came from
+- If you are seemingly contacted by an institution you have a business relationship with, look up their usual contact details online (independently of the suspicious message) and contact them through there to confirm if the message is genuine or not.  Do not engage with the suspicious message, but seek confirmation directly from the institution.
 - Discuss suspicious messages with a friend or family member
 - Keep informed of common types of scams 
 - Beware of offers that seem too good to be true
