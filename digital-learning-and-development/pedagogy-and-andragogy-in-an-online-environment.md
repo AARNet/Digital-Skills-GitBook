@@ -15,5 +15,5 @@ Use low-stakes pre-assessments to find out your learners’ level of knowledge/a
 
 ## References
 
-Saunders, L., & Wong, M. A. (2020). Instruction in libraries and information centers: An introduction. IOPN. https://doi.org/https://doi.org/10.21900/wd.12 
+Saunders, L., & Wong, M. A. (2020). Instruction in libraries and information centers: An introduction. IOPN. https://doi.org/10.21900/wd.12 
 

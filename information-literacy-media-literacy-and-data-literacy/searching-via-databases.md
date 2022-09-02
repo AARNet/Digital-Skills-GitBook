@@ -3,7 +3,7 @@
 ## Overview
 Searching for information can feel a little like drinking from the proverbial firehose. While relying on search algorithms to interpret your quick and dirty search will usually do the trick for lower-stakes day-to-day searches, when it comes to in-depth searching for professional or academic purposes, you need to do a little bit more work constructing your search to track down the resources you need.
 
-## Getting started
+## Developing 
 A search for information starts with a need for information. Sometimes it helps to have this need phrased in the form of a question if it isn’t already. This can help you identify the concepts within your need, and it’s the concepts that drive your search term selection.
 
 ### Identifying concepts
@@ -64,12 +64,12 @@ In the above, we’re asking the database to show us records that feature any on
 
 **Key point**
 > When needed, using AND, OR, NOT or parentheses to control the relationship between your search terms is a useful way to tell the database exactly what you’re looking for.
-## Proficient - Contribution needed
+## Skilled - Contribution needed
 * Field codes
 * Subject headings
 * Trunctation, wildcards, phrase searching
 
-## Advanced - Contribution needed
+## Adept - Contribution needed
 * Proximity searching
 * Search filters
 * Citation searching
