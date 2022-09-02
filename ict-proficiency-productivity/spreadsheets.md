@@ -16,7 +16,7 @@ A cell can contain a formula that will display the answer to a calculation. If p
 -	less than: <
 -	greater than: >
 
-Formulars can also include instructional words such as SUM, AVERAGE and COUNT. The spreadsheet will display the answer to the formula in the cell. If a cell is highlighted the formula will be visible and editable in the formula bar above the cells. Examples of common formulas:
+Formulas can also include instructional words such as SUM, AVERAGE and COUNT. The spreadsheet will display the answer to the formula in the cell. If a cell is highlighted the formula will be visible and editable in the formula bar above the cells. Examples of common formulas:
 | Formula          | Explanation                                                                            |
 |------------------|----------------------------------------------------------------------------------------|
 | =A2+A3           | Adds the values in cells A2 and A3                                                     |
@@ -28,9 +28,9 @@ Formulars can also include instructional words such as SUM, AVERAGE and COUNT. T
 | =COUNT(A1:A10)   | Displays the number of cells from A1 through to A10 that have numerical values in them |
 
 ### Freeze rows or columns
-If you have a large amount of data that you need to scroll through to see you may want to “freeze” the top row or first column so that it remains visible when you scroll down or across. This will let you see the headings or labels next to your data. In Google sheets do this by clicking the View menu then Freeze then select if you want to freeze rows, columns or both. 
+If you have a large amount of data that you need to scroll through to see you may want to “freeze” the top row or first column so that it remains visible when you scroll down or across. This will let you see the headings or labels next to your data. In Google Sheets do this by clicking the View menu then Freeze then select if you want to freeze rows, columns or both. 
 
-In the Numbers program the header for columns and rows are ‘frozen’ by default. Adjust this in the Table menu.
+In the Numbers program the header for columns and rows are "frozen" by default. Adjust this in the Table menu.
 
 ### Autofill
 Autofill is a function in spreadsheets that allows you to automatically fill in data rather than typing it. If you want to enter 30 into many cells write 30 in the first cell. Then click the cell so it is highlighted – there will be a small square in the bottom-right of the cell. Click and hold this square with the mouse pointer then drag the mouse down or across into the cells where you want the same data to appear. This is slightly different in the Numbers program where you will drag the circle from the middle of the cell.
@@ -61,7 +61,7 @@ In the Numbers program this is called conditional highlighting and is available 
 ### IF Function
 Using IF at the start of a formula allows you to display a value in a cell if a certain condition is met and another value if that condition is not met. For example you could display Pass or Fail in the column next to a percentage to indicate whether someone has passed a test. If the grade was in cell D14 and the pass mark was 50 the formula would look like this: 
 -	=IF(D14>49,"Pass","Fail")    
--	This is a written explanation of this formular: if the value in cell D14 is greater than 49 display Pass otherwise display Fail.
+-	This is a written explanation of this formula: if the value in cell D14 is greater than 49 display Pass otherwise display Fail.
 
 ### COUNTIF Function
 The COUNTIF function will allow you to count the number of cells that meet whatever criteria you would like. If you had a list of “Pass” or “Fail” next to students you could count the number of students that passed. If the list containing Pass or Fail was in column E and between rows 5 and 26 the formula would look like this: =COUNTIF(E5:E26,"Pass") 
