@@ -14,9 +14,9 @@ Because screencasts take a video of what is on your screen, you can screencast a
 ## Developing - tools, software, a place to record
 Software used to make screencasts consists primarily of the screen recorder tool. However audio, video and editing tools are also a consideration. Where you will record is important and a final important consideration is how you will share your screencast (if required) with others.
 
-There are tools in-built in some later model computers. In Windows 10 settings, Game bar allows you to record gaming action or activity from other applications. In macOS Mojave and higher there is an in-built screen-capture tool accessed by pressing **Shift + Command + 5**
+There are tools in-built in some later model computers. In Windows 10 settings, [Game bar](https://www.lifewire.com/windows-10-game-bar-4150524) allows you to record gaming action or activity from other applications. In macOS Mojave and higher there is an [in-built screen-capture tool](https://support.apple.com/en-hk/guide/mac-help/mh26782/12.0/mac/12.0) accessed by pressing **Shift + Command + 5**
 
-There are many third party software tools for screencasting. Some examples of these are Loom, Screencast-o-matic, and Open Broadcaster Software – there are many more. Often there is a free basic version and you can subscribe to get more functionality. Depending on whether you use the free or paid plan for tools such as these, you will be able to record video (screen) and audio with or without webcam, do some editing, and share your recording with others.
+There are many third party software tools for screencasting. Some examples of these are Loom, [Zoom](https://www.reed.edu/cis/teaching-with-technology/video-recording-zoom-powerpoint.html), Screencast-o-matic, and Open Broadcaster Software – there are many more. Often there is a free basic version and you can subscribe to get more functionality. Depending on whether you use the free or paid plan for tools such as these, you will be able to record video (screen) and audio with or without webcam, do some editing, and share your recording with others.
 
 Panopto is a popular tool for universities because it can capture several streams of content. For example, you can have a lecture capture stream (view of the instructor), a slide presentation, and a computer screen. It has functionality to insert quizzes into the video and has simple editing features that are easy for a beginner or non-professional to learn.
 
@@ -30,8 +30,8 @@ A quiet place to screencast is a must. It does not have to be a professional stu
 The amount of planning for a screencast depends on what you are trying to achieve with your screencast. Here are some possible scenarios of screencasts and preparation required. 
 -  If you are recording someone using your website, it may be useful to have a series of tasks or questions for the user to work their way through.
 -  If you are planning to screencast an online lesson, ensure your lesson plan is prepared and that you ideally have a space to use that is quiet and free of distraction. 
--  It is also useful to ensure that your status is ‘do not disturb’ on your phone, close programs that have pop-up notifications, hide links on browser toolbars, and even clear the memory and cache of your browser windows. You never know what random auto-completes are in your history or personal information may be revealed. 
--  If your platform allows and the online lesson is long, it is also a good idea to put in chapter markers for each section that is a different topic.
+-  It is also useful to ensure that your status is ‘do not disturb’ on your phone, close programs that have pop-up notifications, hide links on browser toolbars, and even clear the memory and cache of your browser windows and use incognito mode. You never know what random auto-completes are in your history or personal information may be revealed. 
+-  If your platform allows and the online lesson is long, it is also a good idea to put in [chapter markers](https://support.google.com/youtube/answer/9884579?hl=en) for each section that is a different topic.
 -  If you are planning on a screencast that will serve as a generic standalone video on a platform like YouTube, more work will be required to prepare.
 
     - Source video editing software and audio editing software. 
