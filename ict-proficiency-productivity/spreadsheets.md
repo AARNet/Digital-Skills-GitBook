@@ -5,6 +5,7 @@ Spreadsheets are divided into cells and each cell contains one piece of data tha
 -	Microsoft Excel  
 -	Google Sheets, a web-based program 
 -	Numbers for Mac computers.  
+-	[LibreOffice Calc](https://www.libreoffice.org/discover/calc/) (a FOSS option)
 
 ## Basic 
 ### Formulas 
