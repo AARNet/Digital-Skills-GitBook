@@ -13,11 +13,12 @@
 * **clickbait** – content designed to attract attention and encourage traffic.
 * **commit** - saves all changes, along with a brief description from the user, in a “commit” to the local repository. A commit gives a snapshot of your project, where a new version of that project is created in the current repository.
 * **confirmation bias** – the act of searching for or interpreting new evidence as confirmation of one's existing beliefs or theories.
+* **cookie** - a small file created by a web server while a user is browsing a website and placed on the user's computer or other device by the user's web browser. They have many uses, including authenticating that a particular user is logged in, (e.g. keeping you logged into your account when you browse Facebook), or to track your use of a website.  Often used in online shopping carts.
 
 ## D
 
 * **deep fakes** – fake videos or images created using AI and machine learning that feature well-known or fictional people doing or saying things that are not real.
-* * **doxing** or **doxxing** – gathering someone's personal information and publishing it with the intention of harrassment, or having your personal information shared in such a manner.
+* **doxing** or **doxxing** – gathering someone's personal information and publishing it with the intention of harrassment, or having your personal information shared in such a manner.
 
 ## E
 
@@ -26,6 +27,7 @@
 * **fake news** – hoaxes, opinions, scams, or misleading or false information presented as legitimate news stories.
 * **filter bubbles** – digital echo chambers of like-mided views and ideas, curated through algorithms, user behaviour, and the personalisation of online services.
 * **fork** – a copy of a repository that you manage. Lets you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests from your fork.
+* **free and open-source software** or **FOSS** - software that is licensed so that anyone can use, copy, study, and change the software in any way, and the source code is openly shared and volunteers are encouraged to improve the software.
 
 ## G
 
@@ -34,6 +36,7 @@
 ## I
 
 * **issue** - track ideas, give feedback, suggest tasks, or identify bugs that need fixing in a repository.
+* **IP address** - a numerical label such as 192.0.2.1, connected to a computer network that uses the Internet Protocol for communication, useful for identifying the host and providing the location of that host in a network.  
 
 ## J
 
@@ -61,6 +64,8 @@
 * **repository** – contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 
 ## S
+
+* **search engine optimisation (SEO)** - the practices of improving a website's content, formatting and style to try to appear in the first few results for a search on the subject of your website.
 
 ## T
 
