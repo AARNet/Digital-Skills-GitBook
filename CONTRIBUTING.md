@@ -83,6 +83,7 @@ If you see anything that you think needs to be fixed or changed in the book and 
 
 1. If you want to consult the original author of the page you can [raise an issue](https://github.com/AARNet/Digital-Skills-GitBook/issues) and we will alert all the relevant authors for discussion.  
 2. If you are comfortable with editing and adding content then edit the page in your own repository and submit a pull request with the new edits. We'll review and consult the original author of the page if needed to put forward the edits. 
+3. If you would like a particular broad topic to be included that might not fit in a single topic or want to talk about the general structure of a chapter in the book create a new [discussion](https://github.com/AARNet/Digital-Skills-GitBook/discussions) thread.
 
 When submitting a content update issue please put **"Content Update"** and the title of the page in question in the issue title so we are aware of what is being discussed and address it accordingly. 
 
