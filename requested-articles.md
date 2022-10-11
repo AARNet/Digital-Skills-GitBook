@@ -58,8 +58,9 @@ Contributions have been requested in the following areas:
 | Creating a directory structure | All proficiency levels |
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
+| Updating a device | All proficiency levels |
 | Installing and accessing browsers | In Progress |
-| Using spreadsheet applications | In progress |
+| Using spreadsheet applications | Complete |
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
 | Using word processor applications | All proficiency levels |
