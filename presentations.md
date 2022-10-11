@@ -3,10 +3,12 @@
 
 **UPCOMING** 
 
-[Do you Git it? Help us grow a collaborative Open Access Resource!](https://caul.eventsair.com/emc2022/full-program) (CAUL Enabling a Modern Curriculum Conference, September 2022)
+[Digital Skills GitBook update](https://conference.eresearch.edu.au/) (eResearch Australasia Conference, October 2022)
 
 
 **PAST**
+
+[Do you Git it? Help us grow a collaborative Open Access Resource!](https://caul.eventsair.com/emc2022/full-program) (CAUL Enabling a Modern Curriculum Conference, September 2022)
 
 [Happy Birthday Digital Skills GitBook!](https://digitaldexterity.edublogs.org/2022/08/01/happy-birthday-digital-skills-gitbook/) (CAUL Digital Dexterity blog, August 2022)
 

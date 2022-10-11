@@ -22,7 +22,7 @@
 * **deep fakes** – fake videos or images created using AI and machine learning that feature well-known or fictional people doing or saying things that are not real.
 * **doxing** or **doxxing** – gathering someone's personal information and publishing it with the intention of harrassment, or having your personal information shared in such a manner.
 
-## E
+## E 
 
 * **Excel** - a spreadsheet program that is part of the Microsoft Office suite. Excel can be installed onto a computer (PC or Mac) or used in a web browser window. 
 
@@ -59,6 +59,7 @@
 
 ## N
 
+
 * **numbers** - a spreadsheet program only used on Mac devices.
 
 ## O
@@ -79,7 +80,8 @@
 ## S
 
 * **search engine optimisation (SEO)** - the practices of improving a website's content, formatting and style to try to appear in the first few results for a search on the subject of your website.
-*  **spear phishing** - a targeted type of phishing scam where criminals will use genuine information to make the phishing attack seem more legitimate.
+* **spear phishing** - a targeted type of phishing scam where criminals will use genuine information to make the phishing attack seem more legitimate.
+
 
 ## T
 

@@ -77,6 +77,17 @@ If your topic of choice is not available in the GitBook you can create your own 
 
 {% embed url="https://youtu.be/9Cip-_UpWUM" %}
 
+## Editing topics and raising issues
+
+If you see anything that you think needs to be fixed or changed in the book and it is not your own article you can:
+
+1. If you want to consult the original author of the page you can [raise an issue](https://github.com/AARNet/Digital-Skills-GitBook/issues) and we will alert all the relevant authors for discussion.  
+2. If you are comfortable with editing and adding content then edit the page in your own repository and submit a pull request with the new edits. We'll review and consult the original author of the page if needed to put forward the edits. 
+
+When submitting a content update issue please put **"Content Update"** and the title of the page in question in the issue title so we are aware of what is being discussed and address it accordingly. 
+
+Please remember the [Code of Conduct](code-of-conduct.md) while raising issues or contributing to any discussions. Anyone is welcome to join in on discussions and issues raised. 
+
 ## Other useful resources
 
 Markdown guide [https://www.markdownguide.org/](https://www.markdownguide.org/)

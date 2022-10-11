@@ -12,7 +12,9 @@ Based on the literature, and on colleagues’ practical experience, there are fo
 2.	Interactivity
 3.	Need to Know v. Nice to Know
 4.	Accessibility 
-(Irwin and Nance 2021).  We go into more detail about these principles later in this chapter.  
+(Irwin and Nance 2021).  
+
+We go into more detail about these principles later in this chapter.  
 
 The above principles support the following elements of engagement for online teaching and learning, guided and facilitated by educators but ultimately the responsibility of the learners themselves (Redmond, Heffernan et al. 2018): 
 
@@ -29,9 +31,9 @@ Use teacher presence to create a connection with students – this is the key to
 
 How do you create teacher presence in a virtual classroom? Demonstrate that there’s a person behind the content by using one or more of these strategies:
 
-•	use ‘talking head’ videos throughout your resource.  Try to keep them under 5 minutes where possible, and it’s fine to use your computer’s camera and mic.  Do test your audio though, and if necessary use headphones and an external mic.  Record in a quiet place. Make sure your face is lit well – don’t record with a window behind you.
-•	incorporate screen recordings which show you doing things – use a tool such as Panopto which can record your screen activity and your face (and voice) in a smaller window as you navigate.   This format is perfect for demonstrations of navigating websites or drawing simple diagrams.  Students learn better when they are actively engaged in tracking movements.  Accessibility note – talk through and describe any visual elements.
-•	use podcasts or audio recordings if relevant (for example, an interview or discussion between two people). 
+*	use ‘talking head’ videos throughout your resource.  Try to keep them under 5 minutes where possible, and it’s fine to use your computer’s camera and mic.  Do test your audio though, and if necessary use headphones and an external mic.  Record in a quiet place. Make sure your face is lit well – don’t record with a window behind you.
+*	incorporate screen recordings which show you doing things – use a tool such as Panopto which can record your screen activity and your face (and voice) in a smaller window as you navigate.   This format is perfect for demonstrations of navigating websites or drawing simple diagrams.  Students learn better when they are actively engaged in tracking movements.  Accessibility note – talk through and describe any visual elements.
+*	use podcasts or audio recordings if relevant (for example, an interview or discussion between two people). 
 (Irwin and Nance 2021)
 
 Think carefully and purposefully about where a video of you talking through something might be more useful than text or images on a page.
@@ -53,11 +55,13 @@ For example:
 
 > “Keep activity and assignment instructions simple and brief. Written directions … will support learners with attention or memory difficulties while also helping all students stay on task ….” (Saunders & Wong, 2020, Accessibility and Universal Design for Learning section).
 
-For a great example of presenting your online teaching to as wide an audience as possible, look at Mish Boutet’s [_Ateliers sur demande_] (https://ateliers-workshops.ca/), a collaborative project for producing bilingual online information literacy instruction for Canadian university students.  Each lesson provides a short introductory video, teamed with an interactive transcript and written instructions. This is a demonstration of accessibility for everybody – because all of us might prefer different learning techniques at different times.
+For a great example of presenting your online teaching to as wide an audience as possible, look at Mish Boutet’s [_Ateliers sur demande_](https://ateliers-workshops.ca/), a collaborative project for producing bilingual online information literacy instruction for Canadian university students.  Each lesson provides a short introductory video, teamed with an interactive transcript and written instructions. This is a demonstration of accessibility for everybody – because all of us might prefer different learning techniques at different times.
 
 
 # Bibliography
 Irwin, E. and S. Nance (2021). Online pedagogy principles and practice, University of Newcastle.
-Redmond, P., A. Heffernan, L. Abawi, A. Brown and R. Henderson (2018). "An Online Engagement Framework for Higher Education." Online Learning 22(1).
-Tao Testing (2021). "What students are looking for from classroom technology." Open Assessment Technologies https://www.taotesting.com/blog/what-students-are-looking-for-from-classroom-technology/?utm_campaign=External%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-8qkhwcCCDdKA7i-KU8je3MxfAPvOPtV2qq6PzIi-UQg6GY7lg9XT5fcxAPhaMsN9lhaOHMkKBtuoDR82iNrkmF2rF9u3cpCFZvVGz1NAyJqWSdRP8&_hsmi=152699456&utm_content=152699456&utm_source=hs_email&hsCtaTracking=692642b4-a465-4ab7-8682-42ebf26be28c%7C3c3b8611-bd25-4df2-b85a-bde543753990 2021.
+
+[Redmond, P., A. Heffernan, L. Abawi, A. Brown and R. Henderson (2018). "An Online Engagement Framework for Higher Education." Online Learning 22(1).
+Tao Testing (2021). "What students are looking for from classroom technology." Open Assessment Technologies](https://www.taotesting.com/blog/what-students-are-looking-for-from-classroom-technology/?utm_campaign=External%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-8qkhwcCCDdKA7i-KU8je3MxfAPvOPtV2qq6PzIi-UQg6GY7lg9XT5fcxAPhaMsN9lhaOHMkKBtuoDR82iNrkmF2rF9u3cpCFZvVGz1NAyJqWSdRP8&_hsmi=152699456&utm_content=152699456&utm_source=hs_email&hsCtaTracking=692642b4-a465-4ab7-8682-42ebf26be28c%7C3c3b8611-bd25-4df2-b85a-bde543753990) 2021.
+
 Ziegenfuss, D. H. and S. LeMire (2019). "Backward design: A must-have library instructional design strategy for your pedagogical and teaching toolbox." Reference & User Services Quarterly 59(2): 107-112.
