@@ -44,6 +44,9 @@ Note that the use of two-digit numbers after the V (e.g., 01, 02, etc.) means th
 **Discuss and document conventions**
 When collaborating, it is important that everyone understands how filenames will be created. Having everyone in the team understand and use the same filename conventions will make for a more efficient workplace. Therefore, it makes sense to communicate in the team about filenames and come to an agreement on what protocols will be followed. As part of this communication process, these protocols should be documented and shared with the team, so that they are available for reference when needed.
 
+**Consider using a README file**
+A [README file](https://aarnet.gitbook.io/digital-skills-gitbook-1/ict-proficiency-productivity/readme-file) is a document included with each project that introduces and explains a project, helping colleagues and your future self navigate your way through a past project.
+
 > If you are working on files as part of a larger team there may be local conventions which you will of course need to follow, even where they conflict with the above principles – or you could perhaps take the initiative and use these principles as a chance to suggest improvement! 
 Communication is always an issue in teams or organisations, and filenames are a form of communication, so why not seize the opportunity to improve team communication by getting everyone on the same page, filename-wise?
 
