@@ -34,7 +34,10 @@ Some considerations that you should make when choosing your browser would be:
   -  For example: if you are part of the Google Space you might consider Google Chrome as that will allow you to use your account to sync with your phone and access documents and services run through Google. 
 -  Are you concerned about website tracking?
     -  Some browsers like Firefox have additional settings included that focus more on privacy and security. 
-   -  Other browsers like Google Chrome may focus more on personalisation and customisation of content based on your interactions. 
+   -  Other browsers like Google Chrome may focus more on personalisation and customisation of content based on your interactions.  
+-  Do you have specific websites that you use that recommend a particular browser?
+    -  Some websites are optimised for the browser with the largest usage share and will not function on other browsers.  It is worthwhile having a copy of [the most popular browser](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers) as a backup for these kinds of sites.
+
 
 If you choose to switch to another browser from your current one you will need to download and install it on to your computer. If you click on the links in the browser list above, or go to the application store or website of another browser that you wish to use you will be able to download and install the browsers from there.
 
