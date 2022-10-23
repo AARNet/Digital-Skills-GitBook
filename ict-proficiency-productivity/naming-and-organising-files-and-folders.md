@@ -76,7 +76,7 @@ In addition, take a **good** look at what is there. Is some of it OK to delete? 
 **Follow digital decluttering principles**
 Digital decluttering is the idea that we need to declutter our digital lives just as we might our ‘physical’ lives. [Read more about digital decluttering](https://libguides.library.curtin.edu.au/23things/digital-declutter) and consider what it might mean for your style of digital house-keeping, particularly in relation to organising files.
 
-##References and further reading##
+## References and further reading
 * [University of Glasgow file naming tips](https://edshare.gla.ac.uk/807/1/File_Naming_v2_20200608.pdf)
-* [University of Aberdeen file naming conventions](https://www.abdn.ac.uk/staffnet/documents/policy-zone-information-policies/File Naming Conventions July 2017.pdf)
+* [University of Aberdeen file naming conventions](https://www.abdn.ac.uk/staffnet/documents/policy-zone-information-policies/File%20Naming%20Conventions%20July%202017.pdf)
 * [Princeton University Library guide for file names](https://libguides.princeton.edu/c.php?g=102546&p=930626)
