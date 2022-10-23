@@ -23,7 +23,7 @@
   * [Digital preservation: file formats and how to change them](ict-proficiency-productivity/digitalpreservation.md)
   * [Creating a directory structure](ict-proficiency-productivity/directorystructure.md)
   * [Opening, editing and saving documents](ict-proficiency-productivity/documents.md)
-  * [Naming and organising files and folders](ict-proficiency-productivity/filenaming.md)
+  * [Naming and organising files and folders](ict-proficiency-productivity/naming-and-organising-files-and-folders.md)
   * [Printing documents](ict-proficiency-productivity/printing.md)
   * [Accessing and sending emails](ict-proficiency-productivity/email.md)
   * [README files](ict-proficiency-productivity/readme-file.md)
