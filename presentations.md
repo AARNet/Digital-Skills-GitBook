@@ -3,10 +3,12 @@
 
 **UPCOMING** 
 
-[Digital Skills GitBook update](https://conference.eresearch.edu.au/) (eResearch Australasia Conference, October 2022)
+[Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
 
 
 **PAST**
+
+[Digital Skills GitBook update](https://conference.eresearch.edu.au/) (eResearch Australasia Conference, October 2022)
 
 [Do you Git it? Help us grow a collaborative Open Access Resource!](https://caul.eventsair.com/emc2022/full-program) (CAUL Enabling a Modern Curriculum Conference, September 2022)
 
