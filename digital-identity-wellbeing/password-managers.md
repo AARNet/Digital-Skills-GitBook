@@ -44,4 +44,21 @@ While there are online password generators, these are not recommended as [the so
 
 **Using a password manager:**  Set your password manager to produce passwords of at least 14 characters per the [ACSC Information Security Manual](https://www.cyber.gov.au/acsc/view-all-content/ism), item ISM-0421.  It is best if the random passwords include A-Z a-z 0-9 and punctuation, but the allowable punctuation tends to vary by website. Many password generators will give an indication of the 'strength' of the password, obviously make the length long enough so that is 'strong' or more.
 
+**Key points:**
+> Using a password manager means you can make very long and complex passwords and not worry about forgetting them. 
+> Long and complex passwords are more secure. It is therefore a good idea to update any existing short or simple passwords that you bring into the password manager.
+> Your password manager software will likely indicate how weak or strong a password is; take its advice and update your password as required. 
+
 **In your internet browser:** [Firefox](https://support.mozilla.org/en-US/kb/how-generate-secure-password-firefox), [Chrome](https://support.google.com/chrome/answer/7570435) and [Edge](https://support.microsoft.com/en-us/topic/use-password-generator-to-create-more-secure-passwords-in-microsoft-edge-e9247e35-684b-4114-bb5e-fdea3e4ae3ff) all have password generators which will all generate and store good passwords.
+
+## Using multifactor authentication with a password manager
+[Multifactor authentication](https://www.cyber.gov.au/mfa) is a feature available in many password managers which adds an extra layer of security to your passwords. By requiring identification not only via the main password but also by using an additional factor (e.g. response via a physical token, access confirmation via a digital app etc.) it becomes even harder for someone to gain access.
+
+> _Activating multifactor authentication is a highly recommended step to make your passwords more secure_
+
+The following password managers all have options for additional authentication beyond just the main password:
+There are many different password management software options available, including:
+*	[LastPass](https://www.lastpass.com/products/multifactor-authentication)
+*	[1Password](https://support.1password.com/two-factor-authentication/)
+*	[BitWarden](https://bitwarden.com/help/setup-two-step-login/)
+*	[KeePassXC](https://keepassxc.org/docs/#faq-yubikey-howto)

@@ -18,7 +18,7 @@ The concept of “affect” or something being affected by something else is cer
 
 Finally, “symptoms” and “people” are both too general and vague to be useful as search terms. Adding “symptoms” to the search may mean you miss papers where the word “symptoms” isn’t used; also, a search for “diet” and “depression” implies some relationship between the two, so the search doesn’t need to be so specific about what that relationship is (i.e. that it relates to symptoms). 
 
-**Key point**
+**Key point:**
 > From your research question, consider which concepts are the most important and practical to search with. 
 > 
 > With a database search, sometimes less is more!

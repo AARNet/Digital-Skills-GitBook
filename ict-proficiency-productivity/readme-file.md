@@ -2,7 +2,7 @@
 
 ## Overview 
 
-A README file is a document that introduces and explains a project, helping colleagues and your future self navigate your way through a past project (Briney, 2014). 
+A README file is a document that introduces and explains a project, helping colleagues and your future self navigate through a past project (Briney, 2014). 
 
 ## Developing
 
@@ -29,4 +29,4 @@ These are more detailed guides on what to include in a README file for a researc
 
 [Guide to writing "readme" style metadata](https://data.research.cornell.edu/content/readme)
 
-Briney, K. (2014, February 25). README.txt. Data Ab Initio: Managing Research Data Right, from the Start. http://dataabinitio.com/?p=378
+Briney, K. (2014, February 25). README.txt. Data Ab Initio: Managing Research Data Right, from the Start. [http://dataabinitio.com/?p=378](http://dataabinitio.com/?p=378)
