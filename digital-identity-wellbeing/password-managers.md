@@ -52,9 +52,11 @@ While there are online password generators, these are not recommended as [the so
 **In your internet browser:** [Firefox](https://support.mozilla.org/en-US/kb/how-generate-secure-password-firefox), [Chrome](https://support.google.com/chrome/answer/7570435) and [Edge](https://support.microsoft.com/en-us/topic/use-password-generator-to-create-more-secure-passwords-in-microsoft-edge-e9247e35-684b-4114-bb5e-fdea3e4ae3ff) all have password generators which will all generate and store good passwords.
 
 ## Using multifactor authentication with a password manager
-[Multifactor authentication](https://www.cyber.gov.au/mfa) is a feature available in many password managers which adds an extra layer of security to your passwords. By requiring identification not only via the main password but also by using an additional factor (e.g. response via a physical token, access confirmation via a digital app etc.) it becomes even harder for someone to gain access.
+[Multifactor authentication](https://www.cyber.gov.au/mfa) is a feature available in many password managers which adds an extra layer of security to your passwords. By requiring identification not only via the main password but by using an additional factor it becomes even harder for someone to gain access.
 
 > _Activating multifactor authentication is a highly recommended step to make your passwords more secure_
+
+The most common multifactor authentication method is SMS, but this can commonly be hacked.  Authenticator apps such as Google Authenticator can also generate passwords that will only work for a short period of time, but these can also be hacked.  Mobile apps that send a verification prompt can also be used, but require a working phone with Internet access.  The most secure method is a physical security key, although they have not been widely adopted. (Nanda et al., 2022)
 
 The following password managers all have options for additional authentication beyond just the main password:
 There are many different password management software options available, including:
@@ -62,3 +64,8 @@ There are many different password management software options available, includi
 *	[1Password](https://support.1password.com/two-factor-authentication/)
 *	[BitWarden](https://bitwarden.com/help/setup-two-step-login/)
 *	[KeePassXC](https://keepassxc.org/docs/#faq-yubikey-howto)
+
+
+**References**
+* Nanda, A., Jeong, J. J., & Shah, S. W. A. (2022, October 5). _What is multi-factor authentication, and how should I be using it?_ The Conversation. [https://theconversation.com/what-is-multi-factor-authentication-and-how-should-i-be-using-it-191591](https://theconversation.com/what-is-multi-factor-authentication-and-how-should-i-be-using-it-191591)
+‌
