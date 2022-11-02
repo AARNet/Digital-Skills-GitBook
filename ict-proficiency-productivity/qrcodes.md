@@ -6,9 +6,10 @@ QR codes are square barcodes that enable people to use their device to scan the 
 
 ## Skilled
 ### Using a QR code
+![Sample QR code](https://github.com/AARNet/Digital-Skills-GitBook/blob/master/assets/QR%20code.png)
 Most modern smartphones have a QR code scanner built into their camera app so you won’t need to install any additional apps to start using QR codes. The steps for reading a QR code may differ slightly between models.  
 
-* Examine the poster the QR code is on, in case [a fradulent QR code has been stuck over a legitimate one](https://www.cnet.com/tech/services-and-software/qr-code-scams-are-on-the-rise-heres-how-to-avoid-getting-duped/).
+•	Examine the poster the QR code is on, in case [a fradulent QR code has been stuck over a legitimate one](https://www.cnet.com/tech/services-and-software/qr-code-scams-are-on-the-rise-heres-how-to-avoid-getting-duped/).
 
 •	Ensure your device has an internet connection. 
 
