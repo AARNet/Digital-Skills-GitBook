@@ -28,7 +28,7 @@ Contributions have been requested in the following areas:
 | Managing collections | All proficiency levels |
 | Reading data | All proficiency levels |
 | Searching via databases and Google Scholar | All proficiency levels |
-| Types of data | All proficiency levels |
+| Types of data | In progress |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data (collection and management) | All proficiency levels |
 | Your data online | All proficiency levels |
