@@ -39,3 +39,4 @@ Some of the ways you can help protect yourself from phishing scams and identity 
 - Secure computers, phones and wifi networks with password protection
 - Do not use wifi hotspots to access online banking
 - Review your social media privacy and security settings
+- Use a password manager, as [they won't automatically fill in your details on a duplicate site](https://www.pcmag.com/how-to/password-managers-youre-doing-it-wrong), only the original site you made the password for.
