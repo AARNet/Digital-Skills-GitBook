@@ -3,18 +3,131 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
   "contributors": [
-    {
-      "login": "miaaaah",
-      "name": "miaaaah",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84947432?v=4",
-      "profile": "https://github.com/miaaaah",
-      "contributions": [
-        "review",
-        "content"
-      ]
-    },
+{
+	      "login": "miaaaah",
+	      "name": "miaaaah",
+	      "avatar_url": https://avatars.githubusercontent.com/u/84947432?v=4,
+
+	      "profile": https://github.com/miaaaah,
+
+	      "contributions": [
+	        "review",
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "sarasrking",
+	      "name": "Sara King",
+	      "avatar_url": https://avatars.githubusercontent.com/u/48195568?v=4,
+
+	      "profile": https://github.com/sarasrking,
+
+	      "contributions": [
+	        "projectManagement"
+	      ]
+	    },
+	    {
+	      "login": "emmac123",
+	      "name": "Emma Chapman",
+	      "avatar_url": https://avatars.githubusercontent.com/u/80937788?v=4,
+
+	      "profile": https://github.com/emmac123,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "katiemillsau",
+	      "name": "katiemillsau",
+	      "avatar_url": https://avatars.githubusercontent.com/u/25817995?v=4,
+
+	      "profile": https://github.com/katiemillsau,
+
+	      "contributions": [
+	        "question",
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "rcamnewcastle",
+	      "name": "Ruth Cameron",
+	      "avatar_url": https://avatars.githubusercontent.com/u/80928485?v=4,
+
+	      "profile": https://github.com/rcamnewcastle,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "beebanana77",
+	      "name": "Bryony Hawthorn",
+	      "avatar_url": https://avatars.githubusercontent.com/u/81546589?v=4,
+
+	      "profile": https://github.com/beebanana77,
+
+	      "contributions": [
+	        "review"
+	      ]
+	    },
+	    {
+	      "login": "jasminecastellano",
+	      "name": "Jasmine",
+	      "avatar_url": https://avatars.githubusercontent.com/u/92563016?v=4,
+
+	      "profile": https://github.com/jasminecastellano,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "blair-kelly",
+	      "name": "blair-kelly",
+	      "avatar_url": https://avatars.githubusercontent.com/u/84485773?v=4,
+
+	      "profile": https://github.com/blair-kelly,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "S-Zen",
+	      "name": "Sue Khoo",
+	      "avatar_url": https://avatars.githubusercontent.com/u/95196391?v=4,
+
+	      "profile": https://github.com/S-Zen,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    },
+	    {
+	      "login": "jlally4",
+	      "name": "jlally4",
+	      "avatar_url": https://avatars.githubusercontent.com/u/95192387?v=4,
+
+	      "profile": https://github.com/jlally4,
+
+	      "contributions": [
+	        "content"
+	      ]
+	    }
     {
       "login": "sarasrking",
       "name": "Sara King",
@@ -23,49 +136,10 @@
       "contributions": [
         "projectManagement"
       ]
-    },
-    {
-      "login": "emmac123",
-      "name": "Emma Chapman",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80937788?v=4",
-      "profile": "https://github.com/emmac123",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "katiemillsau",
-      "name": "katiemillsau",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25817995?v=4",
-      "profile": "https://github.com/katiemillsau",
-      "contributions": [
-        "question",
-        "content"
-      ]
-    },
-    {
-      "login": "rcamnewcastle",
-      "name": "Ruth Cameron",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80928485?v=4",
-      "profile": "https://github.com/rcamnewcastle",
-      "contributions": [
-        "content"
-      ]
-    },
-    {
-      "login": "beebanana77",
-      "name": "Bryony Hawthorn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/81546589?v=4",
-      "profile": "https://github.com/beebanana77",
-      "contributions": [
-        "review"
-      ]
     }
   ],
-  "contributorsPerLine": 7,
   "projectName": "Digital-Skills-GitBook",
   "projectOwner": "AARNet",
   "repoType": "github",
-  "repoHost": "https://github.com",
-  "skipCi": true
+  "repoHost": "https://github.com"
 }
