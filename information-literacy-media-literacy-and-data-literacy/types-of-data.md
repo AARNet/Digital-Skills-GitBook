@@ -1,7 +1,5 @@
 # Types of Data
 
-<br />
-
 ## Getting started: What is data?
 [Wikipedia](https://en.wikipedia.org/wiki/Data) defines data as a “unit of information” about a person or object that could be a fact, statistic, or other item of information. And according to the Oxford English Dictionary entry, “data” has multiple definitions. Three of the separate but interlinked meanings are particularly helpful in our context of discussing digital data. The three definitions are: 
 
@@ -21,7 +19,6 @@ This chapter will give you a general understanding of what is meant by the term 
 
   [By João Batista Neto](//commons.wikimedia.org/wiki/File:Data_types_-_pt_br.svg)
 
-<br />
 
 ## A bit more info: Two types of data
 There are two basic types of structured data: qualitative and quantitative. In this article, we will discuss both data types, some of the different forms they might take, and give some examples of ways in which that data might be analysed.
@@ -42,7 +39,6 @@ Now let’s talk more about quantitative data. Quantitative data is based on an 
 
 A good way to remember the difference between the two types of data is that qualitative data is indicative of the qualities and characteristics of something, whereas quantitative data is all about recording the quantity or measurements of something! 
 
-<br />
 
 ## Diving deeper: Structured vs Unstructured Data
 Each of the two data types discussed above are generally considered in terms of structured data. The main thing to keep in mind with structured data is that it has already been sorted into a predefined format and there should only be one subtype of one data type recorded in each column of the dataset. Below is an excerpt dataset example of structured data, and you will notice that there are both qualitative and quantitative data. 
@@ -68,7 +64,6 @@ Media that may take the form of photos, videos, or sound files.
 
 The data extracted from the primary source needs to be transformed into a coherent structure to allow for computational analysis. The extracted data could be comprised of counts specific words in a particular collection of texts or digital surveillance photos that contain a particular object. Whatever the data is, it must be organised, or structured, so that individual attributes are grouped with similar, comparable attributes. Whether the dataset needs to be structured to be machine- or human-readable depends on the project and the types of analysis to be performed on that dataset.
 
-<br />
 
 ## More information:
 
