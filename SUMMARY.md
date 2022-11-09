@@ -10,6 +10,7 @@
   * [Using password managers](digital-identity-wellbeing/password-managers.md)
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
+  * [Types of Data](information-literacy-media-literacy-and-data-literacy/types-of-data.md)
   * [ISO dates](information-literacy-media-literacy-and-data-literacy/iso-dates.md)
   * [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
