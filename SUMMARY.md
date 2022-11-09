@@ -7,6 +7,7 @@
 * [1. Digital identity and wellbeing](digital-identity-wellbeing/README.md)
 * [2. Information literacy, media literacy and data literacy](information-literacy-media-literacy-and-data-literacy/README.md)
   * [Discerning fake news](information-literacy-media-literacy-and-data-literacy/discerning-fake-news.md)
+  * [Types of Data](information-literacy-media-literacy-and-data-literacy/types-of-data.md)
 * [3. Digital learning and development](digital-learning-and-development/README.md)
 * [4. ICT proficiency and productivity](ict-proficiency-productivity/README.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
