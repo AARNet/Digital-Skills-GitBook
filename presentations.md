@@ -4,7 +4,6 @@
 **UPCOMING** 
 
 
-
 **PAST**
 
 [Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
