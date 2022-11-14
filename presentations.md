@@ -3,10 +3,11 @@
 
 **UPCOMING** 
 
-[Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
 
 
 **PAST**
+
+[Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
 
 [Digital Skills GitBook update](https://conference.eresearch.edu.au/) (eResearch Australasia Conference, October 2022)
 
