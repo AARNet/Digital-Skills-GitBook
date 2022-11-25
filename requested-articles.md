@@ -56,7 +56,7 @@ Contributions have been requested in the following areas:
 | :--- | :--- |
 | Accessing and sending emails | All proficiency levels |
 | Bookmarking a web page and organising bookmarks | All proficiency levels |
-| Creating a directory structure | All proficiency levels |
+| Creating a directory structure | In progress |
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
 | Updating a device | All proficiency levels |

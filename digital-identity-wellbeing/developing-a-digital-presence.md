@@ -22,7 +22,7 @@ When you create an account, such as for a social media platform, think about you
 
 Respect others – don’t make your profile picture one with you and your friends, or you and your children. Likewise, don’t tag someone – they might not want their family or friends knowing they were at the pub or at a concert. Make sure when you post, only your friends can see it. People surfing the Internet shouldn’t be able to see what you’ve been up to.
 
-Stay safe – use passwords that people or bots would find hard to guess. Don’t share details such as your home address, birthdate or car licence-plate.
+Stay safe – use passwords that people or bots would find hard to guess. Don’t share details such as your home address, birthdate or car licence-plate.  Every so often, use an [incognito](https://www.lifewire.com/browsing-incognito-445990) Google search on yourself to find out what others can learn about you online, and check [Have I Been Pwned](https://haveibeenpwned.com/) to find out if your personal details are circulating in a security breach.
 
 ## Skilled
 

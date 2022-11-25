@@ -32,7 +32,7 @@ There are many different password management software options available, includi
 
 Publications such as [WIRED](https://www.wired.com/), [PC Mag](https://www.pcmag.com/) and [CHOICE](https://www.choice.com.au/) review password managers in depth  – however, make sure the reviews are recent.
 
-Devices from Apple (via [iCloud Keychain]([url](https://support.apple.com/en-au/HT204085))) and Google (via [Password Manager]([url](https://passwords.google.com/))) come with password management options as well.
+Devices from Apple (via [iCloud Keychain](https://support.apple.com/en-au/HT204085)) and Google (via [Password Manager](https://passwords.google.com/)) come with password management options as well.
 
 Click on the links above to explore more about the options available. Alternatively, [this video from Deakin University Library provides an explanation and demonstration of LastPass](https://video.deakin.edu.au/media/t/0_7p844h8y/), although we are not necessarily recommending LastPass over any of the other options.
 
@@ -68,4 +68,3 @@ There are many different password management software options available, includi
 
 **References**
 * Nanda, A., Jeong, J. J., & Shah, S. W. A. (2022, October 5). _What is multi-factor authentication, and how should I be using it?_ The Conversation. [https://theconversation.com/what-is-multi-factor-authentication-and-how-should-i-be-using-it-191591](https://theconversation.com/what-is-multi-factor-authentication-and-how-should-i-be-using-it-191591)
-‌
