@@ -82,7 +82,7 @@ Contributions have been requested in the following areas:
 | :--- | :--- |
 | Creating open education resources | All proficiency levels |
 | Markdown | In progress |
-| Screencasting | In progress |
+| Screencasting | Adept level |
 | Setting up static websites | All proficiency levels |
 | Web scraping | All proficiency levels |
 | Git and GitHub | Skilled and Adept levels, located in [Git and GitHub](/digital-creation-problem-solving-and-innovation/git-and-github.md) |
