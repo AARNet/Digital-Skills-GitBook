@@ -81,7 +81,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Creating open education resources | All proficiency levels |
-| Markdown | In progress |
+| Markdown | Complete |
 | Screencasting | Adept level |
 | Setting up static websites | All proficiency levels |
 | Web scraping | All proficiency levels |
