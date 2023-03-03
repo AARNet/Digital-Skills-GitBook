@@ -76,11 +76,11 @@ It can feel a little strange, as you already know how to do formatting in progra
 
 ## Online tools that use Markdown - good for practicing!
 
-Here are a couple of useful online tools that you can use to try out your new Markdown skills, for free:
+Here are a few useful online tools that you can use to try out your new Markdown skills, for free:
 
-[HackMD](https://hackmd.io/)
-[StackEdit](https://stackedit.io/)
-[Dillinger](https://dillinger.io/)
+* [HackMD](https://hackmd.io/)
+* [StackEdit](https://stackedit.io/)
+* [Dillinger](https://dillinger.io/)
 
 ## Further options
 
@@ -90,6 +90,5 @@ With Markdown you can also add hyperlinks, tables, lists, quotes and images to y
 If you want to know more about markdown, look at these pages: 
 
 
-[Markdown guide - getting started](https://www.markdownguide.org/getting-started/)
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown guide - getting started](https://www.markdownguide.org/getting-started/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
