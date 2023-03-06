@@ -95,4 +95,5 @@ Contributions have been requested in the following areas:
 | Using collaboration and engagement tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
 | Using the Cloud | All proficiency levels |
 | Using web rooms \(e.g. Zoom, Teams\) | All proficiency levels |
+| Knowledge management | All proficiency levels |
 
