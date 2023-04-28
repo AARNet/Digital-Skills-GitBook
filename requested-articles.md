@@ -65,7 +65,7 @@ Contributions have been requested in the following areas:
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
 | Using word processor applications | All proficiency levels |
-| Naming and organising files and folders | In progress |
+| Naming and organising files and folders | Complete |
 | Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
