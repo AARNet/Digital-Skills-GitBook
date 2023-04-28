@@ -49,6 +49,8 @@
 
 ## K
 
+* **knowledge management** - the methods used in an organisation to create, share, use and manage the knowledge and information about the organisation and its operations, often with a focus on knowledge as a strategic asset and sharing that knowledge within the organisation.
+
 ## L
 
 * **lateral reading** – the process of reading across sources and checking information as its presented to you.
