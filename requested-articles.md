@@ -11,7 +11,7 @@ Contributions have been requested in the following areas:
 | Considering environmental impacts | All proficiency levels |
 | Curating materials across networks and platforms | All proficiency levels |
 | Developing a digital presence | Complete |
-| Digital decluttering | All proficiency levels |
+| Digital decluttering | In progress |
 | Staying safe online/online privacy | All proficiency levels |
 | Phishing and identify theft | Complete |
 | Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
