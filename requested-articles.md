@@ -49,6 +49,7 @@ Contributions have been requested in the following areas:
 | Pedagogy and andragogy in an online environment | Complete |
 | Student experience | All proficiency levels |
 | Online pedagogy | Discovery(?) - Ruth
+| Navigating the learning management system (LMS)| All proficiency levels|
 
 ## 4. ICT proficiency and productivity
 
