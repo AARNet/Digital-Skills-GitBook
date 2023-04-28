@@ -86,6 +86,7 @@ Contributions have been requested in the following areas:
 | Setting up static websites | All proficiency levels |
 | Web scraping | All proficiency levels |
 | Git and GitHub | Skilled and Adept levels, located in [Git and GitHub](/digital-creation-problem-solving-and-innovation/git-and-github.md) |
+| Artificial Intelligence Chatbots | All proficiency levels |
 
 ## 6. Collaboration, communication and participation
 
