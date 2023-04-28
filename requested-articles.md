@@ -31,7 +31,7 @@ Contributions have been requested in the following areas:
 | Reading data | All proficiency levels |
 | Searching via databases and Google Scholar | All proficiency levels |
 | Searching via databases and Google Scholar | Skilled and Adept levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
-| Types of data | In progress |
+| Types of data | Complete |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data \(collection and management\) | All proficiency levels |
 | Your data online | All proficiency levels |
