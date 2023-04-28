@@ -41,7 +41,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Accessibility | Complete |
-| How to create engaging online learning \(synchronous and asynchronous\) | In progress |
+| How to create engaging online learning \(synchronous and asynchronous\) | Complete, located in [Creating engaging online learning](digital-learning-and-development/engaging-online-learning.md) |
 | Inclusive teaching practices in online learning | All proficiency levels |
 | Micro-credentials and badges | All proficiency levels |
 | Navigating the LMS | All proficiency levels |
