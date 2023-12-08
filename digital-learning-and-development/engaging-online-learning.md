@@ -49,7 +49,7 @@ Try using “formative assessment with performance-based tasks ….” (Tao Test
 Keep things short and sharp – include only ‘need to know’ information on the main pages of your resource.  You don’t want your resource to look onerous!
 Provide achievement markers, complemented by your concept checks, along the way.
 
-#Accessibility 
+# Accessibility 
 It’s not all about high contrast and font size.  Accessibility relates to cognitive and emotional circumstances as well as physical, and these can change from day to day (as we all know!). Our student cohorts and their situations are diverse, so our online teaching needs to address as many of those situations as possible.
 For example: 
 
