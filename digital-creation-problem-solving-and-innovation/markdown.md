@@ -2,7 +2,7 @@
 
 Markdown is how you can make rich (or formatted) text in a plain text editor (like a notepad). It is a lightweight markup (read: editing) language with plain text formatting syntax. An example of a markup language is HTML.
 
-You can use Markdown in different text editors and environments (such as GitHub, Jupyter Notebooks) to create rich text with plain text. 
+You can use Markdown in different text editors and environments (such as GitHub, Jupyter Notebooks) to create rich text with plain text. It is used across different platforms and tools so you can export in multiple formats and switch devices easily without losing any formatting.
  
  
 Let's start with some basic Markdown.
@@ -74,6 +74,13 @@ This is really _interesting_.
 
 It can feel a little strange, as you already know how to do formatting in programs like Word, but it is an excellent skill to have for editing in a range of environments without having to worry about the original formatting not working across different interfaces.
 
+## Online tools that use Markdown - good for practicing!
+
+Here are a few useful online tools that you can use to try out your new Markdown skills, for free:
+
+* [HackMD](https://hackmd.io/)
+* [StackEdit](https://stackedit.io/)
+* [Dillinger](https://dillinger.io/)
 
 ## Further options
 
@@ -83,6 +90,5 @@ With Markdown you can also add hyperlinks, tables, lists, quotes and images to y
 If you want to know more about markdown, look at these pages: 
 
 
-[Markdown guide - getting started](https://www.markdownguide.org/getting-started/)
-
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown guide - getting started](https://www.markdownguide.org/getting-started/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)

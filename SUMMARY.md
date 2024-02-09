@@ -32,6 +32,7 @@
   * [Using QR codes](ict-proficiency-productivity/qrcodes.md)
 * [5. Digital creation, problem solving and innovation](digital-creation-problem-solving-and-innovation/README.md)
   * [Git and GitHub](digital-creation-problem-solving-and-innovation/git-and-github.md)
+  * [Markdown](digital-creation-problem-solving-and-innovation/markdown.md)
   * [Screencasting](digital-creation-problem-solving-and-innovation/screencasting.md)
 * [6. Collaboration, communication and participation](collaboration-communication-and-participation/README.md)
   * [Using collaborative documents](collaboration-communication-and-participation/collaborativedocuments.md)

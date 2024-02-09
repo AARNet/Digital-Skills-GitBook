@@ -11,7 +11,7 @@ Contributions have been requested in the following areas:
 | Considering environmental impacts | All proficiency levels |
 | Curating materials across networks and platforms | All proficiency levels |
 | Developing a digital presence | Complete |
-| Digital decluttering | All proficiency levels |
+| Digital decluttering | In progress |
 | Staying safe online/online privacy | All proficiency levels |
 | Phishing and identify theft | Complete |
 | Cyber wellbeing – catfishing / bullying and legal avenues/protections | All proficiency levels |
@@ -65,7 +65,7 @@ Contributions have been requested in the following areas:
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
 | Using word processor applications | All proficiency levels |
-| Naming and organising files and folders | In progress |
+| Naming and organising files and folders | Complete |
 | Networks: the internet and how it works | Complete |
 | Opening, editing and saving documents | All proficiency levels |
 | Printing documents | All proficiency levels |
@@ -81,11 +81,12 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Creating open education resources | All proficiency levels |
-| Markdown | In progress |
-| Screencasting | In progress |
+| Markdown | Complete |
+| Screencasting | Adept level |
 | Setting up static websites | All proficiency levels |
 | Web scraping | All proficiency levels |
 | Git and GitHub | Skilled and Adept levels, located in [Git and GitHub](/digital-creation-problem-solving-and-innovation/git-and-github.md) |
+| Artificial Intelligence Chatbots | All proficiency levels |
 
 ## 6. Collaboration, communication and participation
 
@@ -95,4 +96,5 @@ Contributions have been requested in the following areas:
 | Using collaboration and engagement tools \(e.g. Jamboard, Padlet, etc.\) | All proficiency levels |
 | Using the Cloud | All proficiency levels |
 | Using web rooms \(e.g. Zoom, Teams\) | All proficiency levels |
+| Knowledge management | All proficiency levels |
 
