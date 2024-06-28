@@ -31,7 +31,7 @@ Contributions have been requested in the following areas:
 | Reading data | All proficiency levels |
 | Searching via databases and Google Scholar | All proficiency levels |
 | Searching via databases and Google Scholar | Skilled and Adept levels, located in [Searching via databases](information-literacy-media-literacy-and-data-literacy/searching-via-databases.md)  |
-| Types of data | In progress |
+| Types of data | Complete |
 | Visualising/communicating with data | All proficiency levels |
 | Working with data \(collection and management\) | All proficiency levels |
 | Your data online | All proficiency levels |
@@ -41,7 +41,7 @@ Contributions have been requested in the following areas:
 | Topic | Level requested |
 | :--- | :--- |
 | Accessibility | Complete |
-| How to create engaging online learning \(synchronous and asynchronous\) | In progress |
+| How to create engaging online learning \(synchronous and asynchronous\) | Complete, located in [Creating engaging online learning](digital-learning-and-development/engaging-online-learning.md) |
 | Inclusive teaching practices in online learning | All proficiency levels |
 | Micro-credentials and badges | All proficiency levels |
 | Navigating the LMS | All proficiency levels |
@@ -49,6 +49,7 @@ Contributions have been requested in the following areas:
 | Pedagogy and andragogy in an online environment | Complete |
 | Student experience | All proficiency levels |
 | Online pedagogy | Discovery(?) - Ruth
+| Navigating the learning management system (LMS)| All proficiency levels|
 
 ## 4. ICT proficiency and productivity
 
@@ -60,7 +61,7 @@ Contributions have been requested in the following areas:
 | Digital preservation/file formats and how to change them | All proficiency levels |
 | Downloading apps to phone | All proficiency levels |
 | Updating a device | All proficiency levels |
-| Installing and accessing browsers | In Progress |
+| Installing and accessing browsers | Getting started complete, Adept in Progress |
 | Using spreadsheet applications | Complete |
 | Using e-mail applications | All proficiency levels |
 | Creating presentations | All proficiency levels |
