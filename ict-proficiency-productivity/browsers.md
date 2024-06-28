@@ -76,13 +76,14 @@ Some of the things a browser can do are:
 
 ## Parts of your browser (Draft)
 
-The browser has a lot of parts attached to it. Each of them work together to help you work with the complexities of the internet. 
+The browser has a lot of parts attached to it. Each of them work together to help you work with the complexities of the internet. When you think of a web page you might notice there's a lot of layers to it. The first part will be your browser or user interface. This is the browser's global navigation and will stick with you no matter where you go on the internet (Garsiel & Irish, 2011). 
 
 ### The Address Bar
 
 This is where you will put the address of the website that you want so the browser knows what to bring back to you. 
 
 The address bar also doubles as a search function. If you put in a search or some words instead of a web address it will use it's default search engine (Google, Bing etc.) to look up those words on the internet. 
+
 
 ### Navigation Buttons
 
@@ -91,7 +92,30 @@ These are located just to the left of your address bar. Usually you would have 3
 - Forward &#8594;
 - Refresh/Stop &#8635; 
 
-## Adept (coming soon)
+
+### Browser Menu Options
+
+In the top right you will find the browser menu indicated by the 3 dots.
+
+In the browser menu you will find options to log into your account (if not located next to the menu), browsing history, saved bookmarks or favourited pages, browser customisation such as zooming or colour themes, add ons, and settings. 
+
+### Bookmark Bar and Tool Bars
 
 
-## Helpful resources    
+
+### Tabs and Windows
+
+A lot of browsers will support having multiple **tabs** or pages open at the same time. You will find them all laid out across the top of your browser. To add a new one press the + icon at the end of the tab list or use the menu to open up a new tab. 
+
+### Website Content
+
+The main space of your browser will be made up of the content space. This is where your web page is displayed. Anything that falls inside this area will change depending on how the website is designed. Any buttons, links, text, and images is content from that website you have visited. All your browser is doing is displaying the content that website has delivered to you over the internet.
+
+
+## Helpful resources
+
+## References
+
+Garsiel, T., & Irish, P. (2011). How browsers work. [https://web.dev/howbrowserswork/](https://web.dev/howbrowserswork/)
+
+
