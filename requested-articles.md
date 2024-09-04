@@ -55,7 +55,7 @@ Contributions have been requested in the following areas:
 
 | Topic | Level requested |
 | :--- | :--- |
-| Accessing and sending emails | All proficiency levels |
+| Accessing and sending emails | In progress |
 | Bookmarking a web page and organising bookmarks | All proficiency levels |
 | Creating a directory structure | In progress |
 | Digital preservation/file formats and how to change them | All proficiency levels |
