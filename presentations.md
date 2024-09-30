@@ -6,6 +6,8 @@
 
 **PAST**
 
+[Github – a demonstration of the Living Book of Digital Skills and workshop for absolute beginners](https://www.vala.org.au/vala2024-proceedings/vala2024-workshop-2-king/) (VALA, July 2024)
+
 [Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
 
 [Digital Skills GitBook update](https://conference.eresearch.edu.au/) (eResearch Australasia Conference, October 2022)
