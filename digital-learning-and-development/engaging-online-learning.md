@@ -66,3 +66,5 @@ Redmond, P., A. Heffernan, L. Abawi, A. Brown and R. Henderson (2018). "An Onlin
 Tao Testing (2021). ["What students are looking for from classroom technology."](https://www.taotesting.com/blog/what-students-are-looking-for-from-classroom-technology/?utm_campaign=External%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-8qkhwcCCDdKA7i-KU8je3MxfAPvOPtV2qq6PzIi-UQg6GY7lg9XT5fcxAPhaMsN9lhaOHMkKBtuoDR82iNrkmF2rF9u3cpCFZvVGz1NAyJqWSdRP8&_hsmi=152699456&utm_content=152699456&utm_source=hs_email&hsCtaTracking=692642b4-a465-4ab7-8682-42ebf26be28c%7C3c3b8611-bd25-4df2-b85a-bde543753990) Open Assessment Technologies 2021.
 
 Ziegenfuss, D. H. and S. LeMire (2019). "Backward design: A must-have library instructional design strategy for your pedagogical and teaching toolbox." Reference & User Services Quarterly 59(2): 107-112. [https://journals.ala.org/index.php/rusq/article/view/7275/9958](https://journals.ala.org/index.php/rusq/article/view/7275/9958)
+
+Adding a test edit during VALA workshop!
