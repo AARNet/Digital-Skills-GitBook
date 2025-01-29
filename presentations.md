@@ -6,6 +6,8 @@
 
 **PAST**
 
+[The circle of life: The Digital Skills GitBook project](https://2025.everythingopen.au/schedule/presentation/103/) (Everything Open, January 2025)
+
 [Github – a demonstration of the Living Book of Digital Skills and workshop for absolute beginners](https://www.vala.org.au/vala2024-proceedings/vala2024-workshop-2-king/) (VALA, July 2024)
 
 [Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
