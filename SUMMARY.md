@@ -39,3 +39,4 @@
 * [Glossary](glossary.md)
 * [Requested articles](requested-articles.md)
 * [Our talks, presentations and articles](presentations.md)
+* [VALA 2024 Poster Presentation](poster.md)

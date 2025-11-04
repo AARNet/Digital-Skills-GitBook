@@ -1,10 +1,11 @@
 # Our talks, presentations and articles
 
 
-**UPCOMING** 
+[Creating a collaborative open source, crowd-sourced educational resource: The Digital Skills GitBook project](https://oercollective.caul.edu.au/openedaustralasia/chapter/digital-skills-gitbook-project/) (Open Education Down UndOER: Australasian Case Studies, October 2025)
 
+[The circle of life: The Digital Skills GitBook project](https://2025.everythingopen.au/schedule/presentation/103/) (Everything Open, January 2025)
 
-**PAST**
+[Github – a demonstration of the Living Book of Digital Skills and workshop for absolute beginners](https://www.vala.org.au/vala2024-proceedings/vala2024-workshop-2-king/) (VALA, July 2024)
 
 [Getting to know GitBook](https://resbaz.github.io/resbaz2022qld/schedule/#session-1035) (ResBaz Queensland, November 2022)
 

@@ -1,5 +1,14 @@
 # Digital Skills GitBook
 
+To all contributors, readers and community members, thank you for all of your support. It's been a great 5 years! 
+
+## This project has now been sunsetted.
+
+You can read our reflections in our case study published here: 
+
+[Creating a collaborative open source, crowd-sourced educational resource: The Digital Skills GitBook project](https://oercollective.caul.edu.au/openedaustralasia/chapter/digital-skills-gitbook-project/)
+
+
 ![](.gitbook/assets/the-living-book-logo.PNG)
 
 The Living Book of Digital Skills (You never knew you needed until now) is a living, open source online guide to 'modern not-quite-technical computer skills' for researchers and the broader academic community.
