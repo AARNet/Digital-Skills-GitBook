@@ -1,10 +1,7 @@
 # Our talks, presentations and articles
 
 
-**UPCOMING** 
-
-
-**PAST**
+[Creating a collaborative open source, crowd-sourced educational resource: The Digital Skills GitBook project](https://oercollective.caul.edu.au/openedaustralasia/chapter/digital-skills-gitbook-project/) (Open Education Down UndOER: Australasian Case Studies, October 2025)
 
 [The circle of life: The Digital Skills GitBook project](https://2025.everythingopen.au/schedule/presentation/103/) (Everything Open, January 2025)
 
